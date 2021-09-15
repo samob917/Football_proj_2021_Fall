@@ -1,0 +1,393 @@
+game_id,drive,drive_end_yard_line,desc,game_seconds_remaining,yardline_100,drive_game_clock_end,down,ydstogo,drive_ended_with_score,drive_play_id_ended,fixed_drive_result
+2000_02_MIA_MIN,23,MIN 2,(1:22) J.Fiedler pass to B.Emanuel to MIN 46 for 5 yards (K.Wright).,82,51,1:02,1,10,1,3520,Touchdown
+2000_03_BUF_NYJ,24,NYJ 47,(:39) (Shotgun) R.Johnson pass incomplete to E.Moulds.,39,47,0:26,1,10,0,3920,Turnover
+2000_03_MIN_NE,21,MIN 14,"(1:59) D.Bledsoe pass to T.Brown to MIN 40 for 9 yards (E.McDaniel, K.Wright).",119,49,0:54,1,10,0,3772,Turnover on downs
+2000_05_MIN_DET,25,MIN 1,(1:08) C.Batch pass to M.Bates to MIN 28 for 17 yards (J.Randle).,68,45,0:03,1,10,1,4046,Touchdown
+2000_05_NYG_TEN,22,TEN 47,(:43) K.Collins pass incomplete.,43,47,0:22,1,10,0,3765,Turnover
+2000_06_DEN_SD,28,DEN 19,(1:15) (Shotgun) J.Harbaugh pass to T.Fletcher ran ob at DEN 44 for 5 yards (R.Crockett).,75,49,0:00,1,10,0,4126,End of half
+2000_06_IND_NE,20,NE 17,(1:02) P.Manning pass to M.Harrison ran ob at NE 26 for 21 yards.,62,47,0:36,1,10,1,3847,Field goal
+2000_06_TEN_CIN,26,TEN 28,(1:50) (Shotgun) A.Smith pass to B.Bennett to TEN 33 for 17 yards (S.Rolle).,110,50,0:40,1,10,0,3611,Missed field goal
+2000_07_ATL_STL,23,LA 36,(:39) C.Chandler pass to J.Anderson to STL 36 for 12 yards (D.Bly).,39,48,0:00,1,10,0,3889,End of half
+2000_09_DET_IND,32,IND 24,(:59) C.Batch pass to D.Sloan to IND 43 for 7 yards (C.Bennett).,59,50,0:00,1,10,0,4070,End of half
+2000_11_MIA_SD,24,MIA 27,(:48) J.Harbaugh pass to T.Fletcher to MIA 40 for 6 yards (D.Rodgers).,48,46,0:03,1,10,0,3793,Turnover
+2000_11_NYJ_IND,19,IND 28,"(2:00) C.Martin left tackle to 50 for 5 yards (B.Holsey, J.Belser).",120,55,0:52,1,10,0,3639,Turnover on downs
+2000_11_OAK_DEN,24,LV 23,(:41) B.Griese pass to B.Chamberlain to OAK 40 for 5 yards (G.Biekert).,41,45,0:00,1,10,1,4138,NA
+2000_12_CLE_TEN,24,TEN 42,(2:00) D.Pederson sacked at CLE 47 for -7 yards (J.Kearse).,120,46,1:24,1,10,0,3474,Turnover on downs
+2000_12_DET_NYG,26,NYG 48,(:14) (Shotgun) K.Collins pass incomplete to J.Jurevicius.,14,52,0:00,1,10,0,4262,End of half
+2000_13_BUF_TB,25,TB 41,(1:09) (Shotgun) D.Flutie pass incomplete to J.Riemersma (S.Quarles).,69,48,0:21,1,10,0,4081,Turnover
+2000_14_DET_MIN,23,MIN 40,(2:00) (Shotgun) S.Case pass incomplete to J.Morton.,120,50,0:13,1,10,1,3497,Touchdown
+2000_15_PHI_CLE,23,PHI 16,"(1:58) D.Pederson pass to T.Prentice to PHI 47 for 5 yards. FUMBLES, touched at PHI 47, recovered by CLE-E.Lindsay at PHI 47.",118,52,0:43,1,10,0,3747,Turnover
+2000_16_DEN_KC,23,KC 39,(:33) G.Frerotte pass to E.McCaffrey to KC 39 for 13 yards (P.Dennis).,33,52,0:00,1,10,0,3628,End of half
+2000_17_JAX_NYG,27,NYG 12,(1:42) (Shotgun) M.Brunell pass to K.McCardell to NYG 45 for 6 yards (E.McDaniel).,102,51,0:19,1,10,1,3565,Touchdown
+2001_01_MIA_TEN,29,50,(:03) (Shotgun) 14-N.O'Donnell pass incomplete to 88-E.Kinney (54-Z.Thomas).,3,50,0:00,1,10,0,4121,End of half
+2001_04_KC_DEN,22,DEN 48,(2:00) (Shotgun) 10-T.Green pass intended for 88-T.Gonzalez INTERCEPTED by 24-D.O'Neal at DEN 27. 24-D.O'Neal to KC 46 for 27 yards (68-W.Shields; 87-C.Thomas).,120,48,1:46,1,10,0,3453,Turnover
+2001_04_NYJ_BUF,25,NYJ 6,"(2:00) 10-A.Van Pelt pass incomplete to 37-L.Centers. Underthrown, receiver at NYJ 48, left side.",120,51,0:07,1,10,1,4443,Touchdown
+2001_06_ATL_NO,24,ATL 13,"(1:53) (Shotgun) 2-A.Brooks pass to 87-J.Horn to ATL 28 for 21 yards (53-M.Simoneau, 22-G.McBurrows). Pass 18, Run 3",113,49,0:26,1,10,1,3597,Field goal
+2001_06_BAL_CLE,26,CLE 30,(1:31) 1-R.Cunningham pass incomplete.,91,48,0:23,1,10,0,3961,Turnover on downs
+2001_08_CLE_CHI,23,CLE 9,(1:34) 9-S.Matthews pass to 83-D.Terrell to CLE 44 for 9 yards (24-C.Fuller).,94,53,0:28,1,10,1,4130,Touchdown
+2001_08_IND_BUF,27,IND 38,(:35) 11-R.Johnson pass incomplete. QB spikes ball.,35,45,0:00,1,10,0,4200,End of half
+2001_10_CLE_BAL,25,CLE 43,(:26) 18-E.Grbac pass incomplete to 87-Q.Ismail.,26,49,0:00,1,10,0,3903,Turnover on downs
+2001_10_JAX_PIT,25,PIT 45,"(:34) 12-J.Quinn sacked at JAX 46 for -9 yards (92-J.Gildon). FUMBLES (92-J.Gildon), RECOVERED by PIT-67-K.Von Oelhoffen at JAX 46. 67-K.Von Oelhoffen to JAX 46 for no gain (73-Je.Smith).",34,45,0:31,1,10,0,3816,Turnover
+2001_10_SF_CAR,26,CAR 7,(1:27) 5-J.Garcia pass to 81-T.Owens to CAR 46 for 6 yards (59-D.Hambrick).,87,52,0:01,1,10,1,4144,Touchdown
+2001_10_TEN_CIN,25,TEN 13,(1:01) (Shotgun) 3-J.Kitna pass to 83-D.Farmer to TEN 34 for 18 yards (55-E.Robinson).,61,52,0:00,1,10,0,4002,Turnover on downs
+2001_12_IND_BAL,33,BAL 17,(1:10) 18-P.Manning pass to 88-M.Harrison to BAL 46 for 8 yards (26-R.Woodson).,70,54,0:00,1,10,0,4213,End of half
+2001_13_NYJ_PIT,17,PIT 12,(1:54) 16-V.Testaverde pass to 82-K.Swayne pushed ob at PIT 36 for 13 yards (30-C.Scott).,114,49,0:50,1,10,0,3521,Turnover on downs
+2001_14_ATL_IND,25,IND 48,(1:40) (Shotgun) 12-C.Chandler pass to 43-M.Smith ran ob at IND 48 for no gain (26-R.Brooks).,100,48,1:26,1,10,0,3982,Turnover
+2001_15_STL_CAR,25,LA 29,"(1:51) 16-C.Weinke pass to 45-B.Hoover to STL 44 for 11 yards (52-T.Polley, 23-J.Butler).",111,55,0:27,1,10,1,3912,Field goal
+2001_18_NYJ_OAK,19,LV 1,(:58) 16-V.Testaverde pass to 87-L.Coles ran ob at OAK 45 for 9 yards (20-T.James).,58,54,0:00,1,10,0,3609,End of half
+2002_02_ARI_SEA,23,ARI 26,(:12) 4-T.Dilfer pass incomplete. QB spiked ball.,12,45,0:00,1,10,0,4079,End of half
+2002_02_CIN_CLE,21,CIN 37,"(1:40) 12-G.Frerotte pass to 28-C.Dillon to CLE 43 for 10 yards (23-D.Bush, 52-B.Boyer).",100,53,0:09,1,10,0,4030,Turnover
+2002_02_MIA_IND,20,MIA 6,(1:22) 32-E.James up the middle to MIA 41 for 11 yards (54-Z.Thomas).,82,52,0:00,1,10,0,3832,End of half
+2002_02_TEN_DAL,22,DAL 42,(1:48) (Shotgun) 9-S.McNair pass to 87-K.Dyson to DAL 32 for 18 yards (27-M.Edwards).,108,50,0:58,1,10,0,3816,Turnover on downs
+2002_03_GB_DET,25,DET 48,"(1:52) 3-J.Harrington pass to 34-J.Stewart for 52 yards, TOUCHDOWN.",112,52,1:37,1,10,1,3942,Touchdown
+2002_03_SD_ARI,23,ARI 38,(:35) (Shotgun) 16-J.Plummer pass incomplete to 82-M.Jenkins.,35,54,0:00,1,10,0,3802,End of half
+2002_04_NYG_ARI,22,NYG 48,(1:27) 5-K.Collins pass incomplete. Collins spiked the ball.,87,52,1:11,1,10,0,3880,Turnover on downs
+2002_05_NE_MIA,21,MIA 19,(:45) 12-T.Brady pass incomplete. T.Brady spikes the ball to stop the clock.,45,48,0:03,1,10,0,3547,Turnover on downs
+2002_05_TB_ATL,23,TB 36,(:20) 11-D.Johnson pass incomplete to 80-W.Jackson.,20,51,0:00,1,10,0,3584,Turnover
+2002_06_CLE_TB,24,TB 31,(:55) 2-T.Couch pass incomplete.,55,48,0:00,1,10,0,3794,End of half
+2002_07_SF_NO,18,NO 39,(:29) 5-J.Garcia pass incomplete to 81-T.Owens (22-F.Thomas).,29,52,0:00,1,10,0,3896,End of half
+2002_08_OAK_KC,19,KC 9,(1:11) 12-R.Gannon pass to 81-T.Brown to KC 37 for 17 yards.,71,54,0:00,1,10,0,3779,End of half
+2002_12_GB_TB,26,TB 20,"(:56) (Shotgun) PENALTY on GB-58-M.Flanagan, False Start, 5 yards, enforced at TB 45 - No Play. ten second run off",56,45,0:00,1,10,0,3661,End of half
+2002_13_CHI_GB,24,GB 45,"(:19) 10-H.Burris pass to 88-M.Robinson for 45 yards, TOUCHDOWN.",19,45,0:10,1,10,1,3676,Touchdown
+2002_13_TEN_NYG,18,NYG 9,(1:05) (Shotgun) 9-S.McNair pass incomplete to 45-J.Simon.,65,54,0:09,1,10,1,3824,Touchdown
+2002_15_JAX_CIN,20,JAX 49,(2:00) 3-J.Kitna pass incomplete to 85-C.Johnson.,120,55,1:39,1,10,0,3642,Turnover
+2003_02_MIA_NYJ,19,MIA 41,(:55) 16-V.Testaverde pass incomplete to 82-K.Swayne.,55,53,0:00,1,10,0,3585,End of half
+2003_03_BUF_MIA,24,MIA 24,(:54) (Shotgun) 11-D.Bledsoe pass to 81-B.Shaw to MIA 35 for 18 yards (23-P.Surtain; 31-B.Marion).,54,53,0:00,1,10,0,3636,End of half
+2003_04_PHI_BUF,19,BUF 48,"(1:57) (Shotgun) 11-D.Bledsoe pass to 35-J.Burns to PHI 44 for 10 yards (54-N.Wayne). Dump pass left, caught at BUF 48. PENALTY on BUF-61-M.Pucillo, Offensive Holding, 10 yards, enforced at BUF 46 - No Play.",117,54,1:03,1,10,0,4293,Turnover on downs
+2003_05_MIN_ATL,32,MIN 46,(:10) 11-D.Johnson pass to 81-P.Price to MIN 38 for 8 yards (26-D.Walker).,10,46,0:00,1,10,0,4066,End of half
+2003_05_SD_JAX,22,JAX 13,(1:18) 9-D.Brees spiked the ball to stop the clock.,78,49,0:20,1,10,1,3961,Touchdown
+2003_05_TEN_NE,23,NE 23,"(1:00) 9-S.McNair pass to 88-E.Kinney to NE 47 for 8 yards. FUMBLES, recovered by TEN-35-R.Holcombe at NE 45. 35-R.Holcombe to NE 16 for 29 yards.",60,55,0:36,1,10,1,4180,Field goal
+2003_05_WAS_PHI,26,PHI 32,(:38) 11-P.Ramsey pass to 20-C.Morton to PHI 32 for 13 yards (58-Ik.Reese).,38,45,0:13,1,10,1,4172,Touchdown
+2003_06_BAL_ARI,20,BAL 12,(:54) (Shotgun) 11-J.Blake pass incomplete to 82-K.Kasper.,54,46,0:15,1,10,1,3856,Touchdown
+2003_08_HOU_IND,20,HOU 40,(:03) 12-T.Banks spiked the ball to stop the clock.,3,55,0:00,1,10,0,3551,Turnover
+2003_09_GB_MIN,19,GB 1,(1:40) 11-D.Culpepper spiked the ball to stop the clock.,100,51,0:33,1,10,1,3576,Touchdown
+2003_09_GB_MIN,19,GB 1,(1:26) (Shotgun) 11-D.Culpepper pass to 84-R.Moss pushed ob at GB 32 for 14 yards (34-M.McKenzie).,86,46,0:33,1,10,1,3576,Touchdown
+2003_09_SD_CHI,20,CHI 46,(:08) (Shotgun) 7-D.Flutie pass to 24-J.Chatman ran ob at CHI 46 for 7 yards (22-B.Williams).,8,53,0:00,1,10,0,3762,End of half
+2003_10_BAL_STL,34,LA 44,(:40) 7-C.Redman pass to 86-T.Heap to STL 44 for 4 yards (50-P.Tinoisamoa).,40,48,0:14,1,10,0,4153,Turnover
+2003_11_DAL_NE,23,NE 19,"(1:23) (No Huddle, Shotgun) 17-Q.Carter pass to 87-Z.Smith to NE 20 for 32 yards (26-E.Wilson).",83,52,0:00,1,10,0,3799,Turnover
+2003_11_PIT_SF,24,SF 27,(1:54) (Shotgun) 8-T.Maddox pass to 83-C.Doering to SF 35 for 20 yards (26-R.Holman).,114,55,1:06,1,10,0,3868,Turnover on downs
+2003_12_CHI_DEN,21,CHI 31,"(:21) (Shotgun) 16-J.Plummer pass to 80-R.Smith to CHI 36 for 15 yards (55-L.Briggs, 54-B.Urlacher).",21,51,0:00,1,10,0,3958,End of half
+2003_13_GB_DET,26,GB 47,"(1:38) (Shotgun) PENALTY on GB-76-C.Clifton, False Start, 5 yards, enforced at DET 48 - No Play.",98,48,1:03,1,10,0,3605,Turnover
+2003_13_GB_DET,28,GB 40,(:10) (No Huddle) 4-B.Favre pass incomplete to 84-J.Walker.,10,55,0:00,1,10,0,3857,End of half
+2003_13_KC_SD,24,KC 18,(:36) 7-D.Flutie spiked the ball to stop the clock.,36,47,0:00,1,10,1,3738,Touchdown
+2003_14_CHI_GB,29,GB 32,(1:07) 10-K.Stewart left end pushed ob at GB 39 for 16 yards (20-M.Anderson).,67,55,0:17,1,10,0,4108,Turnover on downs
+2003_15_PHI_MIA,22,PHI 32,"(1:08) (No Huddle, Shotgun) 9-J.Fiedler pass to 34-R.Williams to PHI 47 for 6 yards (58-Ik.Reese).",68,53,0:14,1,10,1,3869,Field goal
+2004_01_GB_CAR,20,50,(:24) (Shotgun) 17-J.Delhomme pass incomplete to 84-M.Gaines (21-B.Jue).,24,50,0:00,1,10,0,3742,End of half
+2004_01_NYG_PHI,22,PHI 19,(1:13) 10-E.Manning spiked the ball to stop the clock.,73,46,0:00,1,10,0,4136,End of half
+2004_02_IND_TEN,19,IND 19,(1:53) (Shotgun) 9-S.McNair pass to 88-E.Kinney to IND 40 for 8 yards (50-D.Thornton).,113,48,0:25,1,10,0,3781,Turnover
+2004_03_GB_IND,24,IND 28,(1:05) 18-D.Pederson pass to 89-R.Ferguson to IND 34 for 11 yards (41-C.Bird).,65,45,0:23,1,10,0,4249,Turnover
+2004_04_NE_BUF,21,NE 27,"(1:34) (Shotgun) 11-D.Bledsoe pass incomplete to 80-E.Moulds. Underthrown, receiver at NE 38, left side. Pressure on QB: R.Harrison.",94,50,0:00,1,10,0,4391,Turnover on downs
+2004_05_NYG_DAL,21,NYG 44,(1:55) 16-V.Testaverde pass to 83-T.Glenn pushed ob at NYG 39 for 14 yards (26-B.Alexander). Pass caught middle before running toward left sideline.,115,53,1:38,1,10,0,3934,Turnover
+2004_06_SEA_NE,22,NE 1,(1:06) (No Huddle) 8-M.Hasselbeck pass to 81-K.Robinson pushed ob at NE 37 for 15 yards (22-A.Samuel).,66,52,0:00,1,10,0,4174,End of half
+2004_07_SEA_ARI,28,SEA 45,(1:26) 8-M.Hasselbeck pass intended for 81-K.Robinson INTERCEPTED by 27-D.Macklin at ARI 36. 27-D.Macklin to ARI 38 for 2 yards (81-K.Robinson).,86,55,1:20,1,10,0,4015,Turnover
+2004_08_ATL_DEN,23,ATL 36,(:53) (Shotgun) 16-J.Plummer pass incomplete to 80-R.Smith.,53,45,0:00,1,10,0,4270,End of half
+2004_08_GB_WAS,25,GB 33,(1:06) (No Huddle) 8-M.Brunell pass to 26-C.Portis to GB 48 for 6 yards (77-C.Jenkins).,66,54,0:00,1,10,0,4088,End of half
+2004_10_SEA_STL,22,LA 47,(:26) 8-M.Hasselbeck pass incomplete to 81-K.Robinson.,26,55,0:00,1,10,0,3901,End of half
+2004_12_NYJ_ARI,21,ARI 46,(:04) (Shotgun) 12-J.McCown pass intended for 80-B.Johnson INTERCEPTED by 27-T.Buckley at NYJ 31. 27-T.Buckley to NYJ 49 for 18 yards (12-J.McCown).,4,54,0:00,1,10,0,4054,Turnover
+2004_13_DAL_SEA,24,SEA 34,(2:00) (Shotgun) 16-V.Testaverde pass to 21-J.Jones pushed ob at SEA 34 for 11 yards (28-M.Boulware).,120,45,1:45,1,10,1,3955,Touchdown
+2004_14_IND_HOU,18,HOU 45,(1:18) 8-D.Carr spiked the ball to stop the clock.,78,46,0:38,1,10,0,3837,Turnover on downs
+2004_14_NO_DAL,26,NO 44,(2:00) (Shotgun) 16-V.Testaverde pass incomplete to 81-Q.Morgan. Pass lofted left sideline; incomplete at the New Orleans 20; Brown closest defender.,120,49,1:40,1,10,0,4280,Turnover
+2004_15_JAX_GB,25,JAX 6,(1:59) (Shotgun) 4-B.Favre pass to 80-D.Driver to JAX 37 for 17 yards (27-R.Mathis).,119,54,1:08,1,10,1,3902,Touchdown
+2004_16_PHI_STL,19,LA 45,(:02) 11-J.Blake spiked the ball to stop the clock.,2,45,0:00,1,10,0,3878,End of half
+2004_16_SD_IND,20,LAC 21,(2:00) 18-P.Manning pass to 44-D.Clark to SD 46 for 9 yards (54-S.Cooper).,120,55,0:56,1,10,1,3877,Touchdown
+2004_17_MIN_WAS,19,WAS 38,"(1:02) (No Huddle, Shotgun) 11-D.Culpepper spiked the ball to stop the clock.",62,54,0:02,1,10,1,3587,Touchdown
+2005_02_CLE_GB,19,CLE 4,(:57) 4-B.Favre pass to 83-A.Chatman to CLE 24 for 22 yards (54-Andra Davis).GB-83-A.Chatman was injured during the play. His return is Probable.  Play Challenged by Review Assistant and Upheld.,57,46,0:04,1,10,1,3911,Touchdown
+2005_04_BUF_NO,21,BUF 48,"(:44) (Shotgun) 10-K.Holcomb sacked at BUF 41 for -7 yards (94-C.Grant). FUMBLES (94-C.Grant), RECOVERED by NO-92-T.Bryant at BUF 42. 92-T.Bryant to BUF 37 for 5 yards (10-K.Holcomb). PENALTY on NO, Unsportsmanlike Conduct, 15 yards, enforced at BUF 37.",44,52,0:34,1,10,0,3676,Turnover
+2005_06_CIN_TEN,22,CIN 29,"(:59) 9-S.McNair pass to 81-B.Jones to CIN 29 for 18 yards (34-K.Kaesviharn, 25-K.Ratliff).",59,47,0:32,1,10,1,3712,Field goal
+2005_09_DET_MIN,24,MIN 25,(2:00) 3-J.Harrington up the middle to MIN 39 for 6 yards (52-K.Newman).,120,45,0:07,1,10,0,3843,Turnover
+2005_09_SEA_ARI,21,ARI 41,"(1:03) (Shotgun) 13-K.Warner pass to 30-O.Ayanbadejo to ARI 44 for -2 yards (27-J.Babineaux). PENALTY on ARI-11-L.Fitzgerald, Illegal Formation, 5 yards, enforced at ARI 46 - No Play.",63,54,0:47,1,10,0,4223,Turnover
+2005_10_STL_SEA,21,SEA 22,(:39) (Shotgun) 10-M.Bulger pass to 89-D.Looker ran ob at SEA 34 for 12 yards.,39,46,0:00,1,10,0,3781,End of half
+2005_11_ARI_STL,22,ARI 48,(:33) (Shotgun) 11-J.Martin pass incomplete to 81-T.Holt.,33,52,0:00,1,10,0,4102,End of half
+2005_11_JAX_TEN,25,JAX 8,"(1:04) (No Huddle, Shotgun) 9-S.McNair pass to 29-C.Brown to JAX 42 for 7 yards (52-D.Smith).",64,49,0:10,1,10,1,3862,Touchdown
+2005_11_PHI_NYG,24,NYG 19,(1:17) (Shotgun) 4-M.McMahon pass to 82-L.Smith to NYG 30 for 18 yards (26-B.Alexander).,77,48,0:19,1,10,0,3964,Missed field goal
+2005_12_MIA_OAK,27,MIA 48,(:11) 5-K.Collins pass to 34-L.Jordan to MIA 45 for 3 yards (96-D.Bowens).,11,48,0:00,1,10,0,4451,End of half
+2005_12_SF_TEN,29,TEN 31,"(1:12) 7-K.Dorsey pass to 83-A.Battle to TEN 47 for 8 yards (53-K.Bulluck, 26-A.Woolfolk).",72,55,0:05,1,10,0,4056,Turnover
+2005_12_STL_HOU,18,HOU 43,"(1:08) (Shotgun) PENALTY on STL-63-L.Turner, False Start, 5 yards, enforced at HOU 47 - No Play.",68,47,0:26,1,10,1,3850,Touchdown
+2005_13_GB_CHI,28,CHI 14,(1:20) 4-B.Favre pass to 80-D.Driver to CHI 37 for 13 yards (54-B.Urlacher).,80,50,0:00,1,10,0,4558,End of half
+2005_14_OAK_NYJ,20,NYJ 49,(1:08) (No Huddle) 8-M.Tuiasosopo pass to 85-D.Gabriel ran ob at NYJ 42 for 10 yards (24-T.Law).,68,52,0:00,1,10,0,3919,Turnover
+2005_14_STL_MIN,29,MIN 42,(1:50) (Shotgun) 12-R.Fitzpatrick pass to 84-S.McDonald ran ob at MIN 46 for 7 yards.,110,53,1:02,1,10,0,3881,Turnover
+2005_15_ATL_CHI,26,CHI 46,"(:26) (Shotgun) 7-M.Vick pass to 33-J.Griffith to CHI 46 for 8 yards (23-J.Azumah, 55-L.Briggs).",26,54,0:00,1,10,0,3988,End of half
+2005_16_BUF_CIN,20,CIN 49,(:23) (Shotgun) 3-J.Kitna pass to 31-J.Johnson pushed ob at CIN 49 for 4 yards (22-N.Clements).,23,55,0:00,1,10,0,3895,End of half
+2005_16_MIN_BAL,20,BAL 28,(:52) (Shotgun) 14-B.Johnson pass to 30-M.Moore to BAL 39 for 10 yards (50-T.Polley).,52,49,0:15,1,10,1,3731,Field goal
+2005_16_PHI_ARI,30,ARI 1,(1:45) 4-M.McMahon pass incomplete to 34-R.Mahe (90-D.Dockett).,105,49,0:26,1,10,1,4617,Touchdown
+2005_17_STL_DAL,26,LA 49,(:49) (Shotgun) 11-D.Bledsoe pass to 24-M.Barber ran ob at STL 45 for 9 yards. Pass complete middle before running out of bounds left sideline.,49,54,0:11,1,10,0,4277,Turnover
+2006_01_ATL_CAR,23,ATL 33,(1:37) 17-J.Delhomme pass short middle to 86-K.Mangum to ATL 42 for 7 yards (56-K.Brooking).,97,49,0:13,1,10,0,4034,Turnover on downs
+2006_01_SF_ARI,24,ARI 26,(1:36) (Shotgun) 11-A.Smith pass incomplete deep right to 81-A.Bryant (21-A.Rolle).,96,55,0:32,1,10,1,4679,Field goal
+2006_02_TB_ATL,21,ATL 12,(1:27) 2-C.Simms pass short left to 19-I.Hilliard ran ob at 50 for 4 yards.,87,54,0:00,1,10,0,4336,End of half
+2006_03_CIN_PIT,24,CIN 16,(1:13) 7-B.Roethlisberger spiked the ball to stop the clock.,73,47,0:10,1,10,0,4131,Turnover
+2006_05_BAL_DEN,20,DEN 34,(1:00) (Shotgun) 9-S.McNair pass short left to 86-T.Heap to DEN 35 for 10 yards. Lateral to 89-M.Clayton pushed ob at DEN 34 for 1 yard (52-I.Gold).,60,45,0:36,1,10,0,3489,Turnover
+2006_05_CLE_CAR,27,CAR 15,(1:00) (Shotgun) 9-C.Frye pass short left to 80-K.Winslow to CAR 42 for 5 yards (23-R.Howard).,60,47,0:05,1,10,1,4265,Field goal
+2006_05_DET_MIN,23,50,(:45) 8-J.Kitna pass short left to 34-K.Jones to 50 for 4 yards (91-R.Edwards). DET-34-K.Jones was injured during the play.,45,54,0:23,1,10,0,3971,Turnover
+2006_06_NYG_ATL,24,NYG 22,(:54) (Shotgun) 7-M.Vick pass short middle to 33-J.Griffith to NYG 31 for 14 yards (37-J.Butler).,54,45,0:00,1,10,0,4052,End of half
+2006_07_GB_MIA,27,GB 20,"(:53) (No Huddle, Shotgun) 3-J.Harrington pass short middle to 23-R.Brown to GB 32 for 13 yards (22-M.Manuel) [94-K.Gbaja-Biamila].",53,45,0:00,1,10,0,4892,End of half
+2006_09_ATL_DET,22,DET 10,(2:00) (Shotgun) 7-M.Vick pass incomplete short left to 12-M.Jenkins.,120,53,0:00,1,10,0,4141,Turnover
+2006_09_DEN_PIT,25,DEN 48,(:28) 7-B.Roethlisberger pass incomplete deep right to 80-C.Wilson [97-D.Veal]. coverage by #41 Paymah,28,48,0:09,1,10,0,4315,Turnover
+2006_10_GB_MIN,25,GB 16,(1:56) (Shotgun) 14-B.Johnson pass short middle to 30-M.Moore pushed ob at GB 28 for 27 yards (36-N.Collins).,116,55,0:58,1,10,1,4004,Field goal
+2006_10_SD_CIN,26,LAC 15,(2:00) 9-C.Palmer pass deep middle to 85-C.Johnson to SD 27 for 22 yards (59-D.Edwards).,120,49,0:44,1,10,0,4553,Turnover on downs
+2006_11_CHI_NYJ,21,NYJ 39,(:35) (No Huddle) 10-C.Pennington spiked the ball to stop the clock.,35,55,0:08,1,10,0,3951,Turnover on downs
+2006_11_CIN_NO,25,CIN 30,(1:37) (Shotgun) 9-D.Brees pass short right to 83-B.Miller to CIN 45 for 4 yards (43-E.Kilmer).,97,49,0:00,1,10,0,4056,End of half
+2006_11_SD_DEN,21,LAC 32,"(:34) 16-J.Plummer pass short middle to 80-R.Smith to SD 37 for 14 yards (29-D.Florence). PENALTY on SD-29-D.Florence, Defensive Delay of Game, 5 yards, enforced at SD 37.",34,51,0:00,1,10,0,3862,End of half
+2006_11_WAS_TB,19,TB 4,(1:37) 17-J.Campbell pass incomplete short middle to 46-L.Betts.,97,49,0:32,1,10,1,3643,Touchdown
+2006_12_ARI_MIN,22,MIN 9,(1:49) 7-M.Leinart pass incomplete to 86-T.Walters.,109,53,0:39,1,10,1,4323,Touchdown
+2006_12_GB_SEA,28,SEA 45,"(:52) (No Huddle, Shotgun) PENALTY on GB-88-B.Franks, False Start, 5 yards, enforced at SEA 46 - No Play. 10 second runoff.",52,46,0:00,1,10,0,4600,Turnover
+2006_13_ARI_STL,22,ARI 38,(:32) (Shotgun) 10-M.Bulger pass short middle to 39-S.Jackson to ARI 38 for 8 yards (21-A.Rolle).,32,46,0:00,1,10,0,4294,Turnover
+2006_14_MIN_DET,23,MIN 27,(1:50) (Shotgun) 8-J.Kitna pass short left to 87-M.Furrey to MIN 40 for 11 yards (56-E.Henderson; 21-F.Smoot).,110,51,1:01,1,10,0,3983,Turnover
+2006_15_DAL_ATL,22,ATL 48,(:54) (Shotgun) 8-M.Schaub pass incomplete deep left to 87-A.Lelie.,54,52,0:38,1,10,0,3940,Turnover
+2006_15_NYJ_MIN,24,NYJ 37,(:08) 7-T.Jackson spiked the ball to stop the clock.,8,46,0:00,1,10,0,4217,End of half
+2006_15_PHI_NYG,23,PHI 16,(1:20) (Shotgun) 10-E.Manning pass deep middle to 17-P.Burress to PHI 30 for 19 yards (20-B.Dawkins).,80,49,0:00,1,10,0,4180,End of half
+2007_01_CAR_STL,23,CAR 44,(:30) (Shotgun) 10-M.Bulger pass incomplete short left to 23-B.Leonard.,30,54,0:00,1,10,0,4178,End of half
+2007_02_HOU_CAR,25,HOU 32,"(1:12) (No Huddle, Shotgun) 17-J.Delhomme scrambles right end to HOU 42 for 13 yards (34-V.Hutchins).",72,55,0:00,1,10,0,4181,End of half
+2007_03_JAX_DEN,19,DEN 45,(1:48) (Shotgun) 6-J.Cutler pass deep left intended for 14-B.Stokley INTERCEPTED by 26-S.Knight at JAX 34. 26-S.Knight to JAX 35 for 1 yard (14-B.Stokley).,108,55,1:40,1,10,0,3457,Turnover
+2007_03_SD_GB,21,GB 26,"(:46) (Shotgun) 17-P.Rivers pass short right to 83-V.Jackson to GB 37 for 18 yards (21-C.Woodson, 50-A.Hawk).",46,55,0:20,1,10,1,4069,Field goal
+2007_05_ARI_STL,25,ARI 29,(2:00) (Shotgun) 12-G.Frerotte pass short right to 22-T.Minor to ARI 40 for 13 yards (58-K.Dansby).,120,53,0:13,1,10,1,4700,Touchdown
+2007_06_CAR_ARI,30,ARI 47,(:05) 12-T.Rattay pass deep right to 85-J.Urban to CAR 11 for 42 yards (20-C.Gamble).,5,53,0:00,1,10,0,4795,End of half
+2007_06_CIN_KC,28,KC 18,(1:10) (No Huddle) 9-C.Palmer pass deep middle to 85-C.Johnson to KC 31 for 20 yards (25-G.Wesley).,70,51,0:18,1,10,1,4559,Field goal
+2007_06_OAK_SD,21,LAC 37,(1:08) (Shotgun) 8-D.Culpepper pass short right to 34-L.Jordan to SD 42 for 8 yards (23-Q.Jammer).,68,50,0:00,1,10,0,3767,End of half
+2007_08_DET_CHI,23,DET 24,"(1:56) (Shotgun) 14-B.Griese pass short left to 29-A.Peterson to DET 43 for 6 yards (59-A.Lewis, 31-S.Wilson).",116,49,0:45,1,10,0,4351,Turnover
+2007_09_CIN_BUF,21,BUF 14,"(1:41) 9-C.Palmer pass short middle to 86-D.Coats to BUF 36 for 9 yards (25-K.Thomas, 93-A.Hargrove). Caught at BUF37.",101,45,0:11,1,10,0,4355,Turnover
+2007_10_CHI_OAK,27,CHI 35,"(:25) (Shotgun) 12-J.McCown pass incomplete deep right to 15-J.Higgins (20-A.Archuleta). PENALTY on CHI-97-M.Anderson, Defensive Offside, 5 yards, enforced at CHI 49 - No Play.",25,49,0:00,1,10,0,4065,Turnover
+2007_10_DAL_NYG,22,NYG 39,"(:40) (No Huddle, Shotgun) 10-E.Manning sacked at NYG 39 for -8 yards (98-G.Ellis). FUMBLES (98-G.Ellis), recovered by NYG-76-C.Snee at NYG 39. 76-C.Snee to NYG 39 for no gain (66-T.Johnson).",40,53,0:00,1,10,0,3973,Turnover
+2007_10_DEN_KC,24,DEN 3,"(1:30) (Shotgun) 12-B.Croyle pass deep left to 80-J.Webb pushed ob at DEN 32 for 17 yards. Penalty on DEN-41-K.Paymah, Defensive Pass Interference, declined.",90,49,0:31,1,10,0,4397,Turnover on downs
+2007_10_PHI_WAS,21,WAS 40,(2:00) (Shotgun) 17-J.Campbell pass short left to 47-C.Cooley pushed ob at WAS 47 for 2 yards (24-S.Brown).,120,55,1:22,1,10,0,4338,Turnover on downs
+2007_10_STL_NO,20,LA 7,(1:41) (Shotgun) 9-D.Brees pass incomplete short middle to 12-M.Colston.,101,47,0:32,1,10,1,3735,Touchdown
+2007_11_ARI_CIN,24,ARI 46,(1:09) (Shotgun) 9-C.Palmer pass short left to 33-K.Watson to ARI 46 for 6 yards (25-E.Green).,69,52,0:33,1,10,0,4447,Turnover
+2007_11_CAR_GB,23,GB 43,"(1:35) (Shotgun) PENALTY on CAR-70-T.Wharton, Offensive Holding, 10 yards, enforced at GB 49 - No Play.",95,49,0:50,1,10,0,3939,Turnover on downs
+2007_11_NO_HOU,23,HOU 25,(:57) (Shotgun) 9-D.Brees pass short left to 25-R.Bush to HOU 46 for 7 yards (56-M.Greenwood).,57,53,0:00,1,10,0,3996,End of half
+2007_13_SD_KC,27,LAC 45,(1:48) (Shotgun) 4-T.Thigpen pass short left to 30-G.Harris pushed ob at SD 36 for 19 yards (24-C.Gordon).,108,55,1:04,1,10,0,4129,Turnover on downs
+2007_14_CLE_NYJ,22,CLE 17,(:44) (No Huddle) 11-K.Clemens spiked the ball to stop the clock.,44,49,0:32,1,10,1,4089,Field goal
+2007_14_TB_HOU,24,HOU 20,(1:59) (Shotgun) 12-L.McCown pass short right to 84-J.Galloway to HOU 32 for 15 yards (47-W.Demps).,119,47,0:30,1,10,0,3775,Turnover on downs
+2007_15_BUF_CLE,21,CLE 10,"(1:17) (No Huddle, Shotgun) 5-T.Edwards pass incomplete deep left to 83-L.Evans.",77,50,0:03,1,10,0,3731,Turnover on downs
+2007_15_NYJ_NE,21,NYJ 43,(:28) (Shotgun) 10-C.Pennington pass incomplete deep right to 16-B.Smith (31-B.Meriweather).,28,52,0:00,1,10,0,4120,Turnover on downs
+2007_17_NO_CHI,29,CHI 11,"(1:36) (No Huddle, Shotgun) 9-D.Brees pass short right to 83-B.Miller to CHI 41 for 11 yards (54-B.Urlacher, 24-R.Manning).",96,52,0:07,1,10,1,4715,Touchdown
+2008_01_WAS_NYG,20,NYG 32,(1:05) (Shotgun) 17-J.Campbell pass short left to 82-A.Randle El to NYG 39 for 8 yards (31-A.Ross).,65,47,0:00,1,10,0,3802,End of half
+2008_02_OAK_KC,24,KC 48,(:12) 4-T.Thigpen spiked the ball to stop the clock.,12,52,0:00,1,10,0,4093,End of half
+2008_03_DAL_GB,23,GB 39,(:37) 12-A.Rodgers spiked the ball to stop the clock.,37,49,0:10,1,10,0,4176,Turnover on downs
+2008_04_DEN_KC,26,DEN 46,"(:11) (No Huddle, Shotgun) 28-M.Pittman up the middle to KC 36 for 18 yards (44-J.Page).",11,54,0:00,1,10,0,4316,End of half
+2008_04_SD_OAK,29,LAC 43,(:14) (Shotgun) 2-J.Russell pass short right to 80-Z.Miller pushed ob at SD 43 for 7 yards (32-E.Weddle).,14,50,0:00,1,10,0,4147,End of half
+2008_04_SF_NO,22,NO 49,(:00) 14-J.O'Sullivan kneels to 50 for -1 yards.,0,49,0:00,1,10,0,4169,End of half
+2008_05_CIN_DAL,23,CIN 49,"(1:10) (No Huddle, Shotgun) 9-C.Palmer pass short right to 23-C.Perry ran ob at DAL 50 for 2 yards (32-O.Scandrick).",70,52,0:18,1,10,0,4074,Turnover on downs
+2008_05_NE_SF,25,SF 44,(2:00) (Shotgun) 14-J.O'Sullivan pass short middle to 83-A.Battle to NE 46 for 9 yards (31-B.Meriweather). Caught at NE 48.,120,55,1:21,1,10,0,4167,Turnover on downs
+2008_09_TB_KC,23,KC 24,"(1:50) (Shotgun) 7-J.Garcia pass short middle to 34-E.Graham to KC 43 for 7 yards (91-T.Hali, 55-P.Thomas).",110,50,0:19,1,10,1,4127,Touchdown
+2008_10_CAR_OAK,34,CAR 40,(1:26) (Shotgun) 16-A.Walter pass incomplete short left to 29-M.Bush.,86,54,0:09,1,10,0,4412,Missed field goal
+2008_14_PHI_NYG,18,PHI 1,(1:36) (Shotgun) 10-E.Manning pass short middle to 81-A.Toomer to PHI 40 for 9 yards (27-Q.Mikell).,96,49,0:15,1,10,1,3858,Touchdown
+2008_16_NYJ_SEA,21,SEA 45,"(1:23) (No Huddle, Shotgun) 4-B.Favre pass deep right intended for 89-J.Cotchery INTERCEPTED by 26-J.Wilson [24-D.Grant] at SEA 15. 26-J.Wilson to SEA 15 for no gain (89-J.Cotchery). PENALTY on SEA-26-J.Wilson, Unsportsmanlike Conduct, 7 yards, enforced at SEA 15.",83,45,1:16,1,10,0,3558,Turnover
+2008_16_PIT_TEN,23,TEN 42,"(1:29) (Shotgun) PENALTY on PIT-74-W.Colon, False Start, 5 yards, enforced at PIT 45 - No Play.",89,55,0:16,1,10,0,3942,Opp touchdown
+2008_17_NE_BUF,17,NE 44,"(1:04) 5-T.Edwards pass incomplete short left to 82-J.Reed [50-M.Vrabel]. Under pressure, thrown wide of receiver at NE 48.",64,51,0:00,1,10,0,3609,End of half
+2008_17_SEA_ARI,22,SEA 43,(1:55) 15-S.Wallace pass incomplete short right to 43-L.Weaver [92-B.Berry].,115,52,0:53,1,10,0,4561,Turnover
+2009_01_KC_BAL,22,KC 46,(:06) (Shotgun) 12-B.Croyle pass incomplete deep right to 89-S.Ryan (52-R.Lewis).,6,54,0:00,1,10,0,4200,End of half
+2009_02_CAR_ATL,19,ATL 43,(:13) (Shotgun) 17-J.Delhomme pass short left to 80-D.Jarrett pushed ob at ATL 43 for 9 yards (22-C.Jackson).,13,52,0:00,1,10,0,4182,End of half
+2009_02_CIN_GB,22,CIN 27,(1:17) (Shotgun) 12-A.Rodgers right end ran ob at CIN 41 for 11 yards (22-J.Joseph).,77,52,0:45,1,10,1,4129,Field goal
+2009_02_SEA_SF,24,SEA 46,(:03) (Shotgun) 15-S.Wallace pass short right to 81-N.Burleson to SF 36 for 18 yards (32-M.Lewis). Caught at SF 44.,3,54,0:00,1,10,0,4310,End of half
+2009_04_SD_PIT,19,PIT 49,"(:34) (Shotgun) 17-P.Rivers sacked at SD 46 for -5 yards (92-J.Harrison). FUMBLES (92-J.Harrison), RECOVERED by PIT-51-J.Farrior at SD 46. 51-J.Farrior to SD 45 for 1 yard (66-J.Clary).",34,49,0:26,1,10,0,3947,Turnover
+2009_07_BUF_CAR,26,BUF 49,(1:50) (Shotgun) 17-J.Delhomme pass short left to 87-M.Muhammad ran ob at BUF 39 for 6 yards.,110,45,1:30,1,10,0,4043,Turnover
+2009_07_MIN_PIT,23,PIT 19,"(:28) (Shotgun) 4-B.Favre pass incomplete deep right to 12-P.Harvin. Coverage by #26 Townsend, #22 Gay.",28,52,0:00,1,10,0,4259,End of half
+2009_07_NO_MIA,31,NO 8,(:45) 7-C.Henne pass short right to 80-A.Fasano to NO 44 for 1 yard (32-J.Greer).,45,45,0:00,1,10,0,4944,End of half
+2009_08_ATL_NO,23,NO 22,"(1:23) Line of scrimmage is the 47 which moves on the change of possession. (Shotgun) 2-M.Ryan pass short middle to 88-T.Gonzalez to NO 39 for 14 yards (31-P.Prioleau) [93-B.McCray]. Pass 13, Catch 1",83,53,0:28,1,10,1,4559,Field goal
+2009_08_ATL_NO,24,NO 49,(:13) 2-M.Ryan spiked the ball to stop the clock.,13,49,0:03,1,10,0,4677,Turnover
+2009_08_CAR_ARI,25,CAR 32,(2:00) (Shotgun) 13-K.Warner sacked at ARI 37 for -8 yards (95-C.Johnson).,120,55,0:06,1,10,0,4332,Turnover
+2009_08_CAR_ARI,25,CAR 32,(:39) (No Huddle) 13-K.Warner spiked the ball to stop the clock.,39,49,0:06,1,10,0,4332,Turnover
+2009_10_PHI_SD,20,LAC 34,(:18) (Shotgun) 5-D.McNabb pass incomplete short right to 10-D.Jackson.,18,49,0:00,1,10,0,4034,Turnover
+2009_12_CAR_NYJ,22,NYJ 38,"(2:00) (No Huddle, Shotgun) 17-J.Delhomme pass incomplete deep right to 34-D.Williams.",120,47,1:10,1,10,0,3520,Turnover
+2009_13_BAL_GB,25,GB 38,"(:54) (No Huddle, Shotgun) 5-J.Flacco pass incomplete short right to 27-R.Rice.",54,45,0:28,1,10,0,4398,Turnover on downs
+2009_13_DAL_NYG,24,NYG 22,"(1:33) (No Huddle, Shotgun) 9-T.Romo pass short right to 19-M.Austin pushed ob at NYG 36 for 12 yards (26-A.Rouse).",93,48,0:58,1,10,1,4021,Touchdown
+2009_13_SD_CLE,17,LAC 31,"(1:22) (No Huddle, Shotgun) 10-B.Quinn pass incomplete short middle to 35-J.Harrison.",82,46,0:39,1,10,1,3882,Field goal
+2009_13_STL_CHI,26,CHI 41,"(1:13) (No Huddle, Shotgun) 12-K.Boller pass incomplete short right to 16-D.Amendola.",73,55,0:17,1,10,0,4067,Turnover on downs
+2009_14_SD_DAL,17,LAC 9,(:57) (Shotgun) 9-T.Romo pass short right to 24-M.Barber to SD 40 for 14 yards (23-Q.Jammer).,57,54,0:02,1,10,1,3914,Touchdown
+2009_16_OAK_CLE,25,CLE 42,(1:07) (Shotgun) 3-C.Frye pass incomplete short left to 80-Z.Miller.,67,49,0:40,1,10,0,4474,Turnover on downs
+2009_17_JAX_CLE,19,CLE 15,"(1:20) (No Huddle, Shotgun) 9-D.Garrard pass short middle to 23-R.Jennings to CLE 43 for 11 yards (27-N.Sorensen).",80,54,0:00,1,10,1,3951,Touchdown
+2010_02_NO_SF,21,NO 7,(1:52) (Shotgun) 11-A.Smith pass short right to 84-J.Morgan ran ob at NO 39 for 15 yards.,112,54,1:19,1,10,1,4034,Touchdown
+2010_03_DET_MIN,24,MIN 10,(1:35) (Shotgun) 14-Sh.Hill pass incomplete short middle to 80-B.Johnson.,95,51,0:58,1,10,0,4593,Turnover
+2010_03_IND_DEN,23,IND 39,(:22) (Shotgun) 8-K.Orton pass short middle to 10-J.Gaffney to IND 39 for 14 yards (23-D.Townsend).,22,53,0:00,1,10,0,4390,End of half
+2010_03_WAS_STL,25,LA 30,"(:47) (Shotgun) 5-D.McNabb pass short left to 47-C.Cooley to STL 30 for 19 yards (31-J.King, 50-B.Kehl).",47,49,0:00,1,10,0,4319,End of half
+2010_06_DET_NYG,23,NYG 38,(:55) (Shotgun) 5-D.Stanton pass short right to 13-N.Burleson to NYG 49 for 6 yards (26-A.Rolle).,55,55,0:07,1,10,0,4181,Turnover
+2010_07_NYG_DAL,30,NYG 15,(1:33) (Shotgun) 3-J.Kitna pass incomplete short right to 17-S.Hurd. Pass incomplete sideline at the New York 35.,93,49,0:40,1,10,1,4532,Touchdown
+2010_08_DEN_SF,24,SF 45,(:45) (No Huddle) 8-K.Orton spiked the ball to stop the clock.,45,45,0:38,1,10,0,4150,Turnover
+2010_08_GB_NYJ,26,NYJ 47,(:09) (Shotgun) 6-M.Sanchez scrambles up the middle to GB 33 for 20 yards (27-A.Smith).,9,53,0:00,1,10,0,4217,End of half
+2010_08_HOU_IND,21,IND 14,(2:00) (Shotgun) 8-M.Schaub pass short left to 32-D.Ward pushed ob at HOU 48 for 3 yards (55-C.Session).,120,55,0:57,1,10,0,4303,Turnover
+2010_08_MIN_NE,20,50,"(:41) (No Huddle, Shotgun) PENALTY on MIN-81-V.Shiancoe, False Start, 5 yards, enforced at NE 46 - No Play. 10-second runoff",41,46,0:00,1,10,0,3844,End of half
+2010_08_WAS_DET,34,WAS 41,"(:29) (No Huddle) 8-R.Grossman pass incomplete deep right to 84-J.Galloway [91-Sa.Hill]. PENALTY on WAS-8-R.Grossman, Intentional Grounding, 10 yards, enforced at DET 49.",29,49,0:00,1,10,0,4684,End of half
+2010_09_MIA_BAL,18,BAL 34,(1:08) 7-C.Henne pass short left to 23-R.Brown to BAL 49 for 3 yards (56-T.Gooden).,68,52,0:35,1,10,0,3777,Turnover
+2010_10_DET_BUF,25,BUF 20,(1:39) (Shotgun) 14-Sh.Hill pass incomplete short middle to 81-C.Johnson (28-L.McKelvin). Receiver and coverage at BUF 41. Pressure on QB: D.Whitner.,99,55,0:14,1,10,1,4777,Touchdown
+2010_10_NE_PIT,24,NE 15,"(:59) (No Huddle, Shotgun) 7-B.Roethlisberger pass short middle to 83-H.Miller to NE 36 for 11 yards (31-B.Meriweather, 51-J.Mayo).",59,47,0:00,1,10,0,4684,End of half
+2010_14_IND_TEN,20,IND 2,"(1:40) (No Huddle, Shotgun) 5-K.Collins pass short middle to 28-C.Johnson to IND 38 for 14 yards (39-C.Brown).",100,52,0:00,1,10,1,4078,Touchdown
+2010_16_MIN_PHI,22,MIN 29,"(1:06) (Shotgun) PENALTY on PHI-74-W.Justice, False Start, 5 yards, enforced at PHI 45 - No Play.",66,55,0:00,1,10,0,4186,End of half
+2011_02_CLE_IND,23,CLE 6,(2:00) (Shotgun) 5-K.Collins pass short middle to 29-J.Addai to CLE 39 for 7 yards (52-D.Jackson).,120,46,0:24,1,10,1,4237,Touchdown
+2011_03_NYG_PHI,19,PHI 49,(2:00) 3-M.Kafka pass deep right intended for 10-D.Jackson INTERCEPTED by 21-K.Phillips [91-J.Tuck] at NYG 10. 21-K.Phillips to NYG 23 for 13 yards (32-O.Schmitt).,120,51,1:49,1,10,0,3747,Turnover
+2011_03_NYJ_OAK,26,LV 2,(2:00) (Shotgun) 6-M.Sanchez pass short right to 85-D.Mason to OAK 42 for 5 yards (26-S.Routt; 33-T.Branch).,120,47,0:49,1,10,0,4561,Turnover on downs
+2011_05_CHI_DET,21,DET 14,"(:51) (No Huddle, Shotgun) 6-J.Cutler pass short left to 18-D.Sanzenbacher pushed ob at DET 41 for 7 yards (32-A.Berry).",51,48,0:00,1,10,0,4020,End of half
+2011_05_GB_ATL,19,ATL 49,(:58) (Shotgun) 2-M.Ryan pass short right to 88-T.Gonzalez pushed ob at ATL 49 for 2 yards (38-T.Williams).,58,53,0:32,1,10,0,3735,Turnover
+2011_05_NYJ_NE,22,NE 49,(:27) 6-M.Sanchez spiked the ball to stop the clock.,27,49,0:00,1,10,0,4278,End of half
+2011_08_CLE_SF,21,SF 26,(1:35) (Shotgun) 12-C.McCoy pass short middle to 82-B.Watson to SF 31 for 19 yards (25-T.Brown). Caught at SF 39.  8-yds YAC.,95,50,0:00,1,10,0,4221,End of half
+2011_08_JAX_HOU,27,JAX 48,(:08) (Shotgun) 11-B.Gabbert pass incomplete short right to 83-J.Hill.,8,52,0:00,1,10,0,4118,End of half
+2011_09_SEA_DAL,21,DAL 39,"(1:25) (No Huddle, Shotgun) 7-T.Jackson pass incomplete short right to 20-J.Forsett [93-A.Spencer]. Pass incomplete in the flat.",85,46,0:21,1,10,0,4071,Turnover
+2011_10_DEN_KC,23,DEN 14,"(1:30) (No Huddle, Shotgun) 4-T.Palko scrambles right end pushed ob at DEN 47 for 8 yards (58-V.Miller).",90,55,0:07,1,10,1,3897,Field goal
+2011_11_SD_CHI,21,LAC 45,(1:56) (Shotgun) 17-P.Rivers pass short right intended for 86-V.Brown INTERCEPTED by 21-C.Graham at CHI 48. 21-C.Graham to SD 42 for 10 yards (12-P.Crayton).,116,55,1:44,1,10,0,3957,Turnover
+2011_13_IND_NE,19,NE 12,(:47) (Shotgun) 6-D.Orlovsky pass deep right to 85-P.Garcon pushed ob at NE 12 for 40 yards (32-D.McCourty).,47,52,0:36,1,10,1,4233,Touchdown
+2011_14_CLE_PIT,21,PIT 33,"(1:22) (No Huddle, Shotgun) 12-C.McCoy pass short right to 10-J.Norwood to PIT 47 for 7 yards (22-W.Gay).",82,54,0:00,1,10,0,4009,Turnover on downs
+2011_17_BAL_CIN,23,BAL 33,(:44) (Shotgun) 14-A.Dalton pass incomplete short right to 18-A.Green (25-C.Carr).,44,49,0:00,1,10,0,4055,End of half
+2011_17_NYJ_MIA,22,MIA 10,(2:00) (Shotgun) 6-M.Sanchez pass short right to 81-D.Keller pushed ob at MIA 45 for 5 yards (56-K.Burnett).,120,50,1:15,1,10,1,3806,Touchdown
+2012_01_SF_GB,21,SF 45,(1:53) (Shotgun) 12-A.Rodgers pass incomplete short left to 89-Ja.Jones [55-A.Brooks].,113,45,0:49,1,10,0,4213,Turnover on downs
+2012_02_CLE_CIN,20,CIN 7,(1:41) (Shotgun) 3-B.Weeden pass short middle to 82-B.Watson to CIN 21 for 27 yards (22-N.Clements; 29-L.Hall).,101,48,0:20,1,10,1,4244,Field goal
+2012_03_DET_TEN,22,TEN 3,(1:01) (Shotgun) 14-Sh.Hill pass short middle to 35-J.Bell to TEN 39 for 12 yards (24-C.Sensabaugh).,61,51,0:18,1,10,1,4314,Touchdown
+2012_03_TB_DAL,23,DAL 10,"(1:33) (No Huddle, Shotgun) 5-J.Freeman pass short left to 22-D.Martin to DAL 40 for 12 yards (32-O.Scandrick; 50-S.Lee).",93,52,0:40,1,10,1,4300,Field goal
+2012_05_ARI_STL,24,LA 45,"(1:41) (Shotgun) 4-K.Kolb sacked at ARI 48 for -7 yards (94-R.Quinn). FUMBLES (94-R.Quinn), touched at 50, RECOVERED by STL-95-W.Hayes at ARI 47. 95-W.Hayes to ARI 47 for no gain (29-A.Smith).",101,45,1:32,1,10,0,3982,Turnover
+2012_06_CIN_CLE,30,CLE 49,(:31) 14-A.Dalton spiked the ball to stop the clock.,31,49,0:06,1,10,0,4555,Turnover
+2012_06_DEN_SD,24,LAC 41,(1:20) (Shotgun) 17-P.Rivers sacked at SD 41 for -6 yards (58-V.Miller).,80,53,0:52,1,10,0,4085,Turnover
+2012_06_MIN_WAS,21,WAS 3,(1:52) (Shotgun) 7-C.Ponder pass short right to 82-K.Rudolph pushed ob at WAS 45 for 3 yards (35-D.Jones).,112,48,0:22,1,10,0,4420,Turnover
+2012_07_DET_CHI,25,CHI 12,(2:00) (Shotgun) 9-M.Stafford scrambles left guard to CHI 41 for 6 yards (33-C.Tillman).,120,47,0:30,1,10,1,4641,Touchdown
+2012_09_BUF_HOU,22,BUF 41,"(:25) (Shotgun) PENALTY on BUF-77-C.Glenn, False Start, 5 yards, enforced at BUF 46 - No Play.",25,54,0:00,1,10,0,3838,End of half
+2012_09_PHI_NO,20,NO 15,"(1:30) (Shotgun) 7-M.Vick pass short middle to 87-B.Celek to NO 38 for 11 yards (50-C.Lofton). Pass 9, YAC 2",90,49,0:07,1,10,0,4095,Turnover on downs
+2012_10_DAL_PHI,25,DAL 31,(:36) (Shotgun) 9-N.Foles pass short left to 10-D.Jackson pushed ob at DAL 39 for 7 yards (24-M.Claiborne).,36,46,0:00,1,10,0,4315,End of half
+2012_10_SD_TB,18,TB 47,"(:03) (Shotgun) 30-R.Brown up the middle to TB 31 for 16 yards (71-M.Bennett, 54-L.David).",3,47,0:00,1,10,0,3223,End of half
+2012_11_NYJ_STL,24,50,(1:21) 8-S.Bradford spiked the ball to stop the clock.,81,49,0:41,1,10,0,3887,Turnover on downs
+2012_11_TB_CAR,24,CAR 24,(:45) (Shotgun) 5-J.Freeman pass short left to 22-D.Martin pushed ob at CAR 41 for 6 yards (24-J.Norman).,45,47,0:12,1,10,1,4361,Touchdown
+2012_12_WAS_DAL,25,WAS 33,"(1:09) (No Huddle, Shotgun) 9-T.Romo pass short right to 88-D.Bryant pushed ob at WAS 44 for 3 yards (56-P.Riley).",69,47,0:18,1,10,1,4592,Field goal
+2012_13_NE_MIA,22,NE 24,(:48) (No Huddle) 17-R.Tannehill spiked the ball to stop the clock.,48,52,0:31,1,10,1,4250,Field goal
+2012_14_BAL_WAS,22,BAL 11,(1:37) (Shotgun) 10-R.Griffin pass short middle to 89-S.Moss pushed ob at BAL 38 for 15 yards (39-C.Johnson).,97,53,0:29,1,10,1,4025,Touchdown
+2012_14_DET_GB,20,GB 15,"(1:06) (Shotgun) 9-M.Stafford pass short middle to 35-J.Bell to GB 43 for 9 yards (59-B.Jones, 42-M.Burnett).",66,52,0:07,1,10,1,4126,Field goal
+2012_15_SF_NE,32,SF 23,(1:08) (No Huddle) 12-T.Brady spiked the ball to stop the clock.,68,53,0:38,1,10,1,5167,Field goal
+2012_16_ATL_DET,22,ATL 49,(:30) (Shotgun) 9-M.Stafford pass incomplete short right to 35-J.Bell.,30,49,0:00,1,10,0,4060,End of half
+2012_20_BAL_NE,23,BAL 22,(1:45) 12-T.Brady spiked the ball to stop the clock.,105,45,1:06,1,10,0,4513,Turnover
+2013_01_PHI_WAS,26,PHI 24,"(1:52) (No Huddle, Shotgun) 10-R.Griffin pass deep middle to 85-L.Hankerson to PHI 26 for 27 yards (29-N.Allen).",112,53,1:14,1,10,1,4889,Touchdown
+2013_02_JAX_OAK,23,LV 30,"(:51) (No Huddle, Shotgun) 7-C.Henne pass short middle to 84-C.Shorts to OAK 35 for 11 yards (23-T.Porter).",51,46,0:00,1,10,0,4207,End of half
+2013_05_BUF_CLE,26,CLE 42,(1:01) (Shotgun) 8-J.Tuel sacked at BUF 45 for -4 yards (53-C.Robertson).,61,51,0:09,1,10,0,4462,Turnover on downs
+2013_05_SD_OAK,21,LV 45,"(:53) (No Huddle, Shotgun) 17-P.Rivers pass deep middle intended for 11-E.Royal INTERCEPTED by 24-C.Woodson at OAK 16. 24-C.Woodson to OAK 29 for 13 yards (39-D.Woodhead).",53,45,0:45,1,10,0,4117,Turnover
+2013_06_DET_CLE,24,DET 9,"(:57) (No Huddle, Shotgun) 3-B.Weeden pass short middle to 25-C.Ogbonnaya to DET 40 for 15 yards (54-D.Levy).",57,55,0:00,1,10,0,4420,End of half
+2013_06_IND_SD,17,IND 45,(1:22) (Shotgun) 12-A.Luck pass incomplete short middle to 80-C.Fleener (32-E.Weddle).,82,55,1:07,1,10,0,3692,Turnover
+2013_06_JAX_DEN,23,50,(1:04) (Shotgun) 7-C.Henne pass short right to 21-J.Forsett to 50 for 3 yards (25-C.Harris).,64,53,0:47,1,10,0,4291,Turnover
+2013_09_KC_BUF,21,KC 35,"(1:54) (No Huddle, Shotgun) 7-J.Tuel pass short right to 13-S.Johnson pushed ob at KC 41 for 13 yards (24-B.Flowers). Caught near sideline at KC 45.",114,54,1:27,1,10,0,4508,Turnover on downs
+2013_10_JAX_TEN,29,JAX 14,(1:17) (Shotgun) 4-R.Fitzpatrick pass incomplete deep left to 18-K.Britt.,77,52,0:40,1,10,1,4186,Touchdown
+2013_11_GB_NYG,22,NYG 47,(:11) 16-S.Tolzien spiked the ball to stop the clock.,11,47,0:00,1,10,0,3677,End of half
+2013_11_WAS_PHI,23,PHI 18,"(1:35) (No Huddle, Shotgun) 10-R.Griffin pass incomplete deep left to 88-P.Garcon.",95,55,0:24,1,10,0,4270,Turnover
+2013_11_WAS_PHI,23,PHI 18,(1:10) (Shotgun) 10-R.Griffin pass incomplete short middle to 88-P.Garcon.,70,49,0:24,1,10,0,4270,Turnover
+2013_14_CLE_NE,23,CLE 2,(2:00) (Shotgun) 12-T.Brady pass deep middle to 11-J.Edelman to CLE 34 for 19 yards (29-L.McFadden).,120,53,1:01,1,10,1,4549,Touchdown
+2013_15_SD_DEN,18,LAC 24,"(1:32) (No Huddle, Shotgun) 18-P.Manning pass short right to 84-J.Tamme to SD 41 for 9 yards (56-D.Butler).",92,50,0:29,1,10,1,3813,Field goal
+2013_16_ATL_SF,20,SF 35,(:21) (Shotgun) 2-M.Ryan pass short left to 44-J.Snelling ran ob at SF 49 for 3 yards. Caught at 50.  1-yd YAC,21,52,0:00,1,10,0,4176,Turnover
+2013_17_NYJ_MIA,21,NYJ 33,(1:59) (Shotgun) 17-R.Tannehill pass short left to 14-Mar.Moore ran ob at NYJ 44 for 5 yards.,119,49,1:30,1,10,0,3984,Turnover
+2013_17_WAS_NYG,34,WAS 49,"(:11) (No Huddle, Shotgun) 12-K.Cousins pass short middle intended for 13-N.Williams INTERCEPTED by 38-T.McBride at NYG 36. 38-T.McBride to NYG 36 for no gain (13-N.Williams).",11,51,0:02,1,10,0,4412,Turnover
+2013_19_NO_SEA,23,SEA 9,"(2:00) (Shotgun) 9-D.Brees pass short left to 12-M.Colston to SEA 40 for 11 yards (20-J.Lane). Penalty on SEA-56-C.Avril, Illegal Use of Hands, declined.",120,51,0:26,1,10,1,3991,Touchdown
+2014_01_NE_MIA,26,MIA 34,"(1:21) (No Huddle, Shotgun) 12-T.Brady pass incomplete deep left to 19-B.LaFell.",81,46,0:08,1,10,0,4950,Turnover on downs
+2014_01_OAK_NYJ,23,NYJ 30,(1:57) (Shotgun) 4-D.Carr pass short left to 81-M.Rivera to NYJ 43 for 9 yards (56-D.Davis).,117,52,1:21,1,10,1,3890,Touchdown
+2014_01_TEN_KC,25,TEN 49,(1:21) (No Huddle) 11-A.Smith pass short left to 17-D.Avery to TEN 49 for 6 yards (25-B.Wreh-Wilson).,81,55,1:02,1,10,0,4392,Turnover
+2014_01_WAS_HOU,20,HOU 48,(1:40) (Shotgun) 10-R.Griffin pass incomplete deep right to 88-P.Garcon [59-W.Mercilus].,100,48,1:14,1,10,0,3744,Turnover on downs
+2014_03_HOU_NYG,26,50,(:15) (No Huddle) 14-R.Fitzpatrick spiked the ball to stop the clock.,15,50,0:00,1,10,0,4116,End of half
+2014_03_SD_BUF,21,LAC 11,"(1:06) (No Huddle, Shotgun) 3-E.Manuel pass short right to 84-S.Chandler pushed ob at SD 49 for 6 yards (50-M.Te'o).",66,55,0:00,1,10,0,4344,Turnover on downs
+2014_04_ATL_MIN,23,MIN 33,"(:21) (No Huddle, Shotgun) 2-M.Ryan pass short middle to 32-J.Rodgers to MIN 33 for 12 yards (24-C.Munnerlyn).",21,45,0:00,1,10,0,4428,Turnover
+2014_05_ATL_NYG,23,ATL 37,(:14) 2-M.Ryan spiked the ball to stop the clock.,14,53,0:00,1,10,0,4281,End of half
+2014_06_JAX_TEN,20,TEN 20,"(1:41) (Shotgun) 5-B.Bortles pass incomplete deep right to 84-C.Shorts. The Replay Official challenged the pass completion ruling, and the play was REVERSED. (Shotgun) 5-B.Bortles pass deep right to 84-C.Shorts to TEN 26 for 23 yards (30-J.McCourty).",101,49,0:37,1,10,1,3929,Touchdown
+2014_09_JAX_CIN,25,JAX 45,(:12) (Shotgun) 5-B.Bortles sacked at JAX 39 for -6 yards (99-M.Hunt).,12,55,0:00,1,10,0,4322,End of half
+2014_11_HOU_CLE,25,HOU 29,"(1:56) (Shotgun) PENALTY on HOU-59-W.Mercilus, Neutral Zone Infraction, 5 yards, enforced at CLE 47 - No Play.",116,53,1:10,1,10,0,4912,Turnover on downs
+2014_11_MIN_CHI,19,CHI 29,"(1:58) (No Huddle, Shotgun) 5-T.Bridgewater pass short middle to 31-J.McKinnon to CHI 36 for 14 yards (30-D.Hurst).",118,50,0:42,1,10,0,3952,Turnover
+2014_13_NO_PIT,23,NO 3,"(:52) (No Huddle, Shotgun) 7-B.Roethlisberger pass short middle to 26-L.Bell to NO 39 for 14 yards (91-K.Edebali).",52,53,0:00,1,10,1,4615,Touchdown
+2014_16_DEN_CIN,27,CIN 19,(1:35) (Shotgun) 18-P.Manning pass short left to 22-C.Anderson ran ob at CIN 46 for 6 yards (24-A.Jones).,95,52,1:07,1,10,0,4169,Turnover
+2014_16_TEN_JAX,21,JAX 35,(:24) (Shotgun) 12-C.Whitehurst pass incomplete deep right to 80-D.Hagan.,24,45,0:00,1,10,0,3846,End of half
+2014_18_CIN_IND,24,IND 39,"(:21) (No Huddle, Shotgun) 14-A.Dalton pass incomplete short right to 87-C.Hamilton.",21,52,0:00,1,10,0,4283,End of half
+2014_19_IND_DEN,24,IND 47,(:54) 18-P.Manning spiked the ball to stop the clock.,54,45,0:00,1,10,0,4312,End of half
+2015_01_CAR_JAX,23,JAX 40,(:38) (No Huddle) 5-B.Bortles spiked the ball to stop the clock.,38,55,0:06,1,10,0,4144,Turnover on downs
+2015_01_DET_SD,22,LAC 21,(1:40) (Shotgun) 9-M.Stafford pass short left to 25-T.Riddick to SD 35 for 16 yards (32-E.Weddle).,100,51,1:04,1,10,1,3690,Touchdown
+2015_01_GB_CHI,16,GB 24,"(1:31) (No Huddle, Shotgun) 6-J.Cutler pass short left to 17-A.Jeffery to GB 41 for 14 yards (28-S.Richardson). PENALTY on GB-28-S.Richardson, Unnecessary Roughness, 15 yards, enforced at GB 41.",91,55,0:34,1,10,1,4259,Touchdown
+2015_01_KC_HOU,28,KC 29,(1:47) (Shotgun) 15-R.Mallett pass short right to 10-D.Hopkins pushed ob at KC 29 for 17 yards (29-E.Berry).,107,46,1:23,1,10,1,4444,Field goal
+2015_01_PIT_NE,18,NE 11,(2:00) (Shotgun) 7-B.Roethlisberger pass incomplete deep middle to 11-M.Wheaton.,120,54,0:02,1,10,1,4055,Touchdown
+2015_02_TEN_CLE,22,CLE 19,(2:00) (Shotgun) 8-M.Mariota pass incomplete deep left to 83-H.Douglas.,120,46,0:40,1,10,0,4107,Turnover
+2015_03_TB_HOU,26,HOU 39,(:49) (Shotgun) 3-J.Winston pass short left to 34-C.Sims to HOU 45 for 9 yards (51-J.Simon).,49,54,0:19,1,10,0,4629,Missed field goal
+2015_07_MIN_DET,22,MIN 36,(:47) (Shotgun) 9-M.Stafford pass short right to 85-E.Ebron pushed ob at MIN 41 for 4 yards (24-C.Munnerlyn).,47,45,0:06,1,10,0,3980,Turnover on downs
+2015_07_NYJ_NE,20,NE 37,(:54) (Shotgun) 14-R.Fitzpatrick pass short middle to 17-C.Owusu to NE 43 for 4 yards (23-P.Chung).,54,47,0:18,1,10,1,4293,Field goal
+2015_08_NYJ_OAK,22,LV 28,(1:01) (Shotgun) 7-G.Smith pass short left to 15-B.Marshall pushed ob at OAK 43 for 11 yards (31-N.Thorpe) [57-R.Armstrong]. NYJ-7-G.Smith was injured during the play. His return is Questionable.,61,54,0:23,1,10,0,4207,Turnover on downs
+2015_10_DET_GB,25,DET 11,"(1:25) (No Huddle, Shotgun) 12-A.Rodgers pass short middle to 80-J.Perillo to DET 38 for 12 yards (59-T.Whitehead).",85,50,0:32,1,10,1,4539,Touchdown
+2015_11_DEN_CHI,22,DEN 2,"(1:23) (No Huddle, Shotgun) 6-J.Cutler pass short right to 11-J.Bellamy to DEN 33 for 12 yards (21-A.Talib).",83,45,0:24,1,10,1,4108,Touchdown
+2015_12_PIT_SEA,25,SEA 48,"(1:45) (Shotgun) 3-L.Jones pass deep right intended for 10-M.Bryant INTERCEPTED by 31-K.Chancellor (35-D.Shead) at SEA 7. 31-K.Chancellor to SEA 7 for no gain (10-M.Bryant). The Replay Official reviewed the incomplete pass ruling, and the play was Upheld. The ruling on the field stands.",105,48,1:37,1,10,0,4309,Turnover
+2015_13_HOU_BUF,25,BUF 28,"(:19) (Shotgun) 7-B.Hoyer pass short left to 41-J.Grimes pushed ob at HOU 49 for 4 yards (21-L.McKelvin). Flare pass, caught at HOU 47.",19,55,0:00,1,10,0,4626,Turnover
+2015_15_CIN_SF,30,50,"(:34) (No Huddle, Shotgun) 2-B.Gabbert pass incomplete short right to 32-T.Cadet.",34,50,0:00,1,10,0,4591,End of half
+2015_16_CHI_TB,23,CHI 43,"(:31) (No Huddle, Shotgun) 3-J.Winston pass incomplete deep right to 13-M.Evans.",31,53,0:01,1,10,1,3839,Touchdown
+2015_20_NE_DEN,29,DEN 4,(1:52) (Shotgun) 12-T.Brady pass incomplete deep left to 28-J.White (54-B.Marshall).,112,50,0:12,1,10,1,4502,Touchdown
+2016_01_CHI_HOU,24,CHI 45,(:37) (Shotgun) 6-J.Cutler pass incomplete short left [99-J.Watt].,37,55,0:10,1,10,0,4010,Turnover on downs
+2016_02_IND_DEN,21,DEN 45,"(:25) 12-A.Luck spiked the ball to stop the clock. PENALTY on DEN, Defensive 12 On-field, 5 yards, enforced at DEN 50 - No Play.",25,50,0:00,1,10,0,4328,End of half
+2016_03_CHI_DAL,21,DAL 16,"(:40) (Shotgun) 2-B.Hoyer pass short left to 24-J.Howard to DAL 36 for 14 yards (31-B.Jones). FUMBLES (31-B.Jones), and recovers at DAL 36. 24-J.Howard to DAL 36 for no gain (50-S.Lee; 57-D.Wilson).",40,50,0:00,1,10,0,4195,End of half
+2016_04_CLE_WAS,19,WAS 44,(:31) (Shotgun) 6-C.Kessler scrambles right end pushed ob at CLE 48 for 2 yards (97-K.Reyes).,31,54,0:00,1,10,0,4207,End of half
+2016_05_ATL_DEN,21,ATL 27,(1:15) (No Huddle) 12-P.Lynch spiked the ball to stop the clock.,75,54,0:14,1,10,1,4125,Field goal
+2016_06_DEN_SD,23,LAC 28,(1:39) (Shotgun) 13-T.Siemian pass short left to 16-B.Fowler to SD 44 for 7 yards (57-J.Brown).,99,51,0:27,1,10,1,4110,Field goal
+2016_06_DEN_SD,24,LAC 45,(:26) (Shotgun) 13-T.Siemian pass short left to 85-V.Green ran ob at SD 45 for 9 yards.,26,54,0:00,1,10,0,4332,Turnover on downs
+2016_07_BAL_NYJ,25,NYJ 44,(1:33) (Shotgun) 5-J.Flacco pass short middle to 44-K.Juszczyk to NYJ 44 for 2 yards (51-J.Stanford).,93,46,0:55,1,10,0,3909,Turnover on downs
+2016_07_CHI_GB,18,GB 42,"(1:08) (No Huddle, Shotgun) 12-M.Barkley pass short right to 17-A.Jeffery to GB 42 for 11 yards (36-L.Gunter).",68,53,0:41,1,10,0,4126,Turnover
+2016_07_IND_TEN,20,IND 26,"(1:26) (No Huddle, Shotgun) 8-M.Mariota pass short left to 19-T.Sharpe pushed ob at IND 40 for 14 yards (21-V.Davis).",86,54,0:43,1,10,1,4336,Field goal
+2016_08_KC_IND,25,KC 40,"(1:58) (Shotgun) 12-A.Luck pass deep left to 10-D.Moncrief for 45 yards, TOUCHDOWN NULLIFIED by Penalty [99-R.Nunez-Roches]. PENALTY on IND-71-D.Good, Offensive Holding, 10 yards, enforced at KC 45 - No Play.",118,45,0:02,1,10,0,4312,Turnover on downs
+2016_08_SD_DEN,27,LAC 46,(1:32) (Shotgun) 17-P.Rivers pass incomplete short right to 28-M.Gordon.,92,55,1:12,1,10,0,4524,Turnover on downs
+2016_09_CAR_LA,21,CAR 10,"(1:44) (Shotgun) PENALTY on CAR-97-M.Addison, Neutral Zone Infraction, 5 yards, enforced at LA 48 - No Play.",104,52,0:34,1,10,1,4030,Touchdown
+2016_11_PIT_CLE,15,PIT 14,"(1:36) (No Huddle, Shotgun) 13-J.McCown pass incomplete short left to 19-C.Coleman (93-D.McCullers).",96,53,0:00,1,10,0,4020,End of half
+2016_12_KC_DEN,24,DEN 3,"(1:56) (Shotgun) 11-A.Smith pass incomplete short left to 87-T.Kelce [94-D.Ware]. PENALTY on DEN-36-K.Webster, Defensive Holding, 5 yards, enforced at KC 48 - No Play.",116,52,0:12,1,10,1,4293,Touchdown
+2016_12_KC_DEN,24,DEN 3,"(1:51) (Shotgun) PENALTY on DEN-58-V.Miller, Defensive Offside, 5 yards, enforced at DEN 47 - No Play.",111,47,0:12,1,10,1,4293,Touchdown
+2016_13_DET_NO,19,DET 14,"(1:41) (No Huddle, Shotgun) 9-D.Brees pass deep right to 10-B.Cooks ran ob at DET 23 for 32 yards [92-H.Ngata]. PENALTY on NO-73-J.Evans, Offensive Holding, 10 yards, enforced at NO 45 - No Play.",101,55,0:00,1,10,0,4297,Turnover
+2016_13_WAS_ARI,19,ARI 28,(1:16) (Shotgun) 8-K.Cousins pass short middle to 85-V.Davis to ARI 34 for 18 yards (21-P.Peterson).,76,52,0:41,1,10,0,4386,Turnover
+2016_15_CAR_WAS,27,WAS 44,(1:00) (Shotgun) 8-K.Cousins pass short right to 85-V.Davis pushed ob at CAR 46 for 8 yards (23-L.Johnson).,60,54,0:39,1,10,0,4529,Turnover
+2016_15_NE_DEN,24,NE 42,"(1:28) (No Huddle, Shotgun) 13-T.Siemian pass incomplete short left to 88-D.Thomas.",88,54,0:14,1,10,0,4103,Turnover
+2016_16_MIN_GB,26,GB 39,(:32) (Shotgun) 8-S.Bradford pass short left to 84-C.Patterson to GB 50 for 3 yards (33-M.Hyde).,32,53,0:00,1,10,0,4217,End of half
+2016_17_DAL_PHI,23,DAL 46,"(:23) (No Huddle, Shotgun) 3-M.Sanchez pass incomplete short middle to 25-L.Dunbar.",23,54,0:00,1,10,0,3985,End of half
+2017_01_NYG_DAL,19,DAL 35,(:25) (Shotgun) 10-E.Manning pass short right to 28-P.Perkins pushed ob at DAL 45 for 4 yards (24-N.Carroll).,25,49,0:00,1,10,0,3935,End of half
+2017_01_OAK_TEN,18,LV 34,"(:21) (No Huddle, Shotgun) 8-M.Mariota pass incomplete short left to 84-C.Davis.",21,47,0:07,1,10,0,3863,Missed field goal
+2017_01_PHI_WAS,21,PHI 42,(:52) (Shotgun) 8-K.Cousins sacked at WAS 43 for -7 yards (55-B.Graham).,52,50,0:25,1,10,0,4082,Turnover on downs
+2017_03_KC_LAC,21,KC 4,(1:05) (Shotgun) 17-P.Rivers pass incomplete short right to 12-T.Benjamin.,65,48,0:00,1,10,0,4066,End of half
+2017_06_LA_JAX,26,LA 36,"(1:14) (No Huddle, Shotgun) 5-B.Bortles pass short left to 33-C.Ivory to LA 38 for 12 yards (26-M.Barron).",74,50,1:07,1,10,0,4120,Missed field goal
+2017_07_BAL_MIN,21,MIN 13,"(2:00) (Shotgun) 5-J.Flacco sacked at BAL 40 for -5 yards (97-E.Griffen). FUMBLES (97-E.Griffen) [97-E.Griffen], recovered by BAL-10-C.Moore at BAL 38. 10-C.Moore pushed ob at BAL 38 for no gain (54-E.Kendricks).",120,55,0:00,1,10,1,4074,Touchdown
+2017_09_OAK_MIA,21,LV 15,(1:46) (Shotgun) 6-J.Cutler pass short right to 11-D.Parker pushed ob at OAK 41 for 12 yards (23-D.McDonald).,106,53,1:32,1,10,1,4010,Touchdown
+2017_10_NYJ_TB,23,TB 38,(1:10) (Shotgun) 15-J.McCown pass short middle to 88-A.Seferian-Jenkins to NYJ 46 for no gain (21-J.Evans).,70,54,0:28,1,10,1,4084,Touchdown
+2017_10_SEA_ARI,25,SEA 1,"(1:39) (No Huddle, Shotgun) 5-D.Stanton pass deep left to 11-L.Fitzgerald to SEA 30 for 18 yards (54-B.Wagner).",99,48,0:20,1,10,1,4589,Touchdown
+2017_11_WAS_NO,19,WAS 18,(1:21) (Shotgun) 9-D.Brees pass short right to 82-C.Fleener pushed ob at WAS 18 for 29 yards (23-D.Hall).,81,47,1:05,1,10,1,4325,Touchdown
+2017_12_CLE_CIN,17,CIN 42,(2:00) (Shotgun) 7-D.Kizer pass short right to 81-R.Higgins pushed ob at CIN 40 for 8 yards (50-J.Evans).,120,48,1:36,1,10,0,3927,Turnover on downs
+2017_12_TB_ATL,18,ATL 35,(1:03) (Shotgun) 14-R.Fitzpatrick pass short right to 80-O.Howard ran ob at ATL 42 for 6 yards (22-K.Neal).,63,48,0:00,1,10,0,4021,End of half
+2017_13_HOU_TEN,20,TEN 48,(:03) (No Huddle) 3-T.Savage spiked the ball to stop the clock.,3,48,0:00,1,10,0,4457,End of half
+2017_13_LA_ARI,23,LA 42,"(1:02) (No Huddle, Shotgun) 7-B.Gabbert scrambles left end pushed ob at 50 for 3 yards (21-K.Webster).",62,53,0:00,1,10,0,4181,End of half
+2017_13_PHI_SEA,20,SEA 31,"(:37) (No Huddle, Shotgun) 11-C.Wentz pass incomplete short left to 88-T.Burton [93-B.Jackson].",37,55,0:00,1,10,0,4214,End of half
+2017_14_SF_HOU,24,SF 34,(2:00) (Shotgun) 2-T.Yates scrambles up the middle to SF 37 for 12 yards (20-L.Hall).,120,49,1:29,1,10,0,4404,Missed field goal
+2017_15_CHI_DET,20,DET 25,"(:59) (No Huddle, Shotgun) 10-M.Trubisky pass short left to 30-B.Cunningham to DET 36 for 10 yards (59-T.Whitehead, 27-G.Quin).",59,46,0:28,1,10,0,4049,Turnover
+2017_16_ATL_NO,25,NO 46,(:18) (Shotgun) 2-M.Ryan pass incomplete short right to 24-D.Freeman [94-C.Jordan].,18,53,0:00,1,10,0,4330,End of half
+2017_16_JAX_SF,24,SF 45,(:23) (Shotgun) 5-B.Bortles pass short left to 83-B.Koyack pushed ob at SF 45 for 9 yards (36-D.Johnson). Caught at 50.  5-YAC,23,54,0:00,1,10,0,5160,End of half
+2017_16_MIA_KC,21,MIA 47,"(1:26) (No Huddle, Shotgun) 6-J.Cutler pass incomplete short left to 85-A.Derby.",86,53,1:05,1,10,0,4257,Turnover on downs
+2017_16_SEA_DAL,21,SEA 30,(2:00) (Shotgun) 4-D.Prescott sacked at DAL 48 for -6 yards (72-M.Bennett).,120,46,1:00,1,10,0,4060,Missed field goal
+2017_17_CAR_ATL,24,ATL 19,(1:58) (Shotgun) 1-C.Newton scrambles left end ran ob at ATL 45 for 8 yards (45-D.Jones).,118,53,0:08,1,10,0,4213,Turnover
+2017_18_ATL_LA,23,ATL 45,(1:42) (Shotgun) 16-J.Goff pass incomplete deep left to 12-S.Watkins (23-R.Alford).,102,49,1:08,1,10,0,4524,Turnover on downs
+2017_19_JAX_PIT,23,JAX 4,"(:58) (No Huddle, Shotgun) 7-B.Roethlisberger pass deep right to 10-M.Bryant pushed ob at JAX 5 for 42 yards (42-B.Church).",58,47,0:01,1,10,1,4271,Touchdown
+2017_21_PHI_NE,21,NE 49,(:13) (Shotgun) 12-T.Brady pass incomplete short left to 13-P.Dorsett (41-R.Darby).,13,51,0:00,1,10,0,4441,End of half
+2018_01_TEN_MIA,26,MIA 35,"(:32) (No Huddle, Shotgun) 7-B.Gabbert pass short middle to 33-D.Lewis to MIA 40 for 10 yards (55-J.Baker).",32,50,0:11,1,10,1,4143,Field goal
+2018_02_BAL_CIN,26,CIN 23,(1:36) (Shotgun) 5-J.Flacco pass short middle to 10-C.Moore to CIN 44 for 4 yards (36-S.Williams).,96,48,0:00,1,10,0,5129,End of half
+2018_02_IND_WAS,22,IND 34,"(1:58) (Shotgun) 11-A.Smith pass short right to 86-J.Reed to IND 47 for 7 yards (27-N.Hairston, 26-C.Geathers) [51-J.Ward].",118,54,0:18,1,10,0,4223,Turnover on downs
+2018_02_MIN_GB,21,GB 22,(1:26) (Shotgun) 8-K.Cousins scrambles right end pushed ob at GB 44 for 4 yards (35-J.Whitehead).,86,48,0:31,1,10,1,3945,Touchdown
+2018_02_NYG_DAL,19,DAL 20,(1:25) (Shotgun) 10-E.Manning pass short left to 88-E.Engram pushed ob at 50 for 3 yards (31-B.Jones).,85,53,0:11,1,10,1,3712,Field goal
+2018_03_CIN_CAR,22,CAR 40,(:21) (Shotgun) 14-A.Dalton pass short middle to 25-G.Bernard to CAR 40 for 8 yards (54-S.Thompson).,21,48,0:00,1,10,0,3884,Turnover
+2018_04_CLE_OAK,33,CLE 7,(1:28) (Shotgun) 4-D.Carr pass short left to 82-J.Nelson ran ob at CLE 48 for 5 yards (38-T.Carrie).,88,53,0:30,1,10,1,4786,Touchdown
+2018_05_JAX_KC,22,KC 14,(:23) (Shotgun) 5-B.Bortles pass deep left to 84-K.Cole ran ob at KC 26 for 23 yards.,23,49,0:04,1,10,0,4683,Turnover
+2018_05_MIA_CIN,19,MIA 35,(2:00) (Shotgun) 17-R.Tannehill pass incomplete short left to 86-M.Gesicki (59-N.Vigil).,120,53,1:35,1,10,0,3748,Turnover
+2018_05_MIA_CIN,21,CIN 42,(:32) (Shotgun) 17-R.Tannehill pass short right to 32-K.Drake to CIN 42 for 13 yards (94-S.Hubbard).,32,55,0:00,1,10,0,4058,End of half
+2018_07_DET_MIA,17,DET 28,"(1:26) (Shotgun) 8-B.Osweiler pass incomplete deep left to 10-K.Stills (23-D.Slay). PENALTY on DET-24-N.Lawson, Defensive Holding, 5 yards, enforced at DET 48 - No Play.",86,48,0:48,1,10,0,3533,Missed field goal
+2018_08_NO_MIN,18,NO 46,(:07) 8-K.Cousins spiked the ball to stop the clock.,7,46,0:00,1,10,0,3834,End of half
+2018_08_NYJ_CHI,21,NYJ 47,"(:20) (No Huddle, Shotgun) PENALTY on NYJ-68-K.Beachum, False Start, 5 yards, enforced at NYJ 47 - No Play.",20,53,0:00,1,10,0,4014,End of half
+2018_10_ARI_KC,21,KC 46,(:49) (Shotgun) 3-J.Rosen pass short left to 11-L.Fitzgerald to KC 46 for 4 yards (44-D.O'Daniel; 49-D.Sorensen).,49,50,0:17,1,10,0,4046,Turnover
+2018_12_CLE_CIN,20,CIN 45,(1:47) (Shotgun) 6-J.Driskel pass incomplete deep right to 15-J.Ross.,107,50,1:13,1,10,0,4320,Turnover on downs
+2018_13_LA_DET,24,LA 14,"(1:30) (Shotgun) 9-M.Stafford pass short left to 87-L.Toilolo to LA 42 for 6 yards (23-N.Robey) [50-S.Ebukam]. PENALTY on DET-79-K.Wiggins, Offensive Holding, 10 yards, enforced at LA 48 - No Play.",90,48,0:12,1,10,0,4687,Turnover
+2018_14_NO_TB,22,NO 36,"(:26) (No Huddle, Shotgun) 3-J.Winston pass deep left to 13-M.Evans pushed ob at NO 26 for 21 yards (43-M.Williams).",26,47,0:01,1,10,0,4339,Turnover
+2018_21_NE_LA,24,NE 30,"(:25) (No Huddle, Shotgun) 16-J.Goff pass incomplete short middle to 83-J.Reynolds.",25,51,0:05,1,10,0,4264,Missed field goal
+2019_01_SF_TB,20,SF 37,"(1:47) (No Huddle, Shotgun) 3-J.Winston pass short middle to 44-D.Ogunbowale to SF 45 for 9 yards (54-F.Warner).",107,54,0:51,1,10,0,4113,Turnover on downs
+2019_03_CHI_WAS,20,CHI 32,"(:49) (No Huddle, Shotgun) 8-C.Keenum pass incomplete deep left to 17-T.McLaurin (20-P.Amukamara).",49,51,0:00,1,10,0,4411,End of half
+2019_03_DEN_GB,22,DEN 47,(:21) (No Huddle) 5-J.Flacco spiked the ball to stop the clock.,21,53,0:00,1,10,0,3931,End of half
+2019_03_NO_SEA,22,NO 4,(1:15) (Shotgun) 3-R.Wilson pass short left to 16-T.Lockett ran ob at NO 45 for 10 yards (26-P.Williams).,75,55,0:00,1,10,1,4518,Touchdown
+2019_03_NO_SEA,22,NO 4,"(1:09) (No Huddle, Shotgun) 3-R.Wilson pass short middle to 17-M.Turner to NO 34 for 11 yards (24-V.Bell).",69,45,0:00,1,10,1,4518,Touchdown
+2019_03_TEN_JAX,23,JAX 37,(:51) (No Huddle) 8-M.Mariota pass incomplete short right to 15-D.Jennings.,51,52,0:00,1,10,0,4140,End of half
+2019_04_OAK_IND,22,LV 48,"(1:33) (No Huddle, Shotgun) 7-J.Brissett pass short right to 84-J.Doyle ran ob at OAK 48 for 4 yards (21-G.Conley).",93,52,1:10,1,10,1,4444,Touchdown
+2019_04_TB_LA,23,TB 46,(2:00) (Shotgun) 16-J.Goff pass short right to 17-R.Woods to TB 48 for 2 yards (54-L.David; 36-M.Stewart).,120,50,1:06,1,10,0,5057,Opp touchdown
+2019_04_TB_LA,24,LA 48,(:10) (Shotgun) 16-J.Goff pass incomplete short left to 83-J.Reynolds (26-S.Bunting).,10,52,0:00,1,10,0,5344,End of half
+2019_05_ATL_HOU,21,HOU 35,(1:11) (Shotgun) 2-M.Ryan pass incomplete deep left to 83-R.Gage [99-J.Watt].,71,54,0:24,1,10,0,4618,Opp touchdown
+2019_05_TB_NO,21,NO 26,"(:39) (Shotgun) 3-J.Winston pass short left to 80-O.Howard to NO 39 for 8 yards (22-C.Gardner-Johnson). PENALTY on NO-22-C.Gardner-Johnson, Defensive Holding, 5 yards, enforced at NO 47 - No Play.",39,47,0:13,1,10,1,4130,Touchdown
+2019_06_CAR_TB,32,CAR 20,(:46) (Shotgun) 3-J.Winston pass deep middle to 12-C.Godwin to CAR 20 for 26 yards (54-S.Thompson).,46,46,0:16,1,10,0,4655,Turnover
+2019_06_DAL_NYJ,19,NYJ 4,"(1:52) (Shotgun) 4-D.Prescott pass short left to 21-E.Elliott pushed ob at NYJ 36 for 12 yards (46-N.Hewitt). Penalty on NYJ-34-B.Poole, Illegal Contact, declined.",112,48,0:43,1,10,1,4178,Touchdown
+2019_09_DAL_NYG,22,DAL 24,(1:59) (Shotgun) 8-D.Jones pass incomplete short left to 22-W.Gallman Jr.,119,47,0:06,1,10,0,4455,Opp touchdown
+2019_09_GB_LAC,16,LAC 41,(1:36) (Shotgun) 12-A.Rodgers pass incomplete short middle to 33-A.Jones [42-U.Nwosu].,96,46,1:06,1,10,0,3693,Turnover on downs
+2019_09_NYJ_MIA,22,MIA 11,"(:51) (No Huddle, Shotgun) 14-S.Darnold pass short right to 26-L.Bell pushed ob at MIA 36 for 9 yards (33-J.Wiltz).",51,45,0:15,1,10,1,4363,Field goal
+2019_09_TEN_CAR,23,CAR 26,"(1:14) (No Huddle, Shotgun) 17-R.Tannehill pass short right to 84-C.Davis to CAR 33 for 18 yards (47-R.Cockrell). Penalty on CAR, Defensive Too Many Men on Field, declined.",74,51,0:47,1,10,0,4490,Missed field goal
+2019_12_SEA_PHI,25,SEA 2,"(:55) (No Huddle, Shotgun) 11-C.Wentz pass short right to 88-D.Goedert ran ob at SEA 40 for 7 yards (36-A.King).",55,47,0:20,1,10,1,4228,Touchdown
+2019_13_NO_ATL,24,NO 44,(1:54) (Shotgun) 2-M.Ryan sacked at ATL 46 for -1 yards (94-C.Jordan).,114,53,0:38,1,10,0,4392,Turnover on downs
+2019_13_NO_ATL,24,NO 44,"(1:19) (No Huddle, Shotgun) 2-M.Ryan sacked at ATL 47 for -7 yards (98-S.Rankins).",79,46,0:38,1,10,0,4392,Turnover on downs
+2019_13_WAS_CAR,25,WAS 3,(1:51) (Shotgun) 7-K.Allen pass deep left to 12-D.Moore to WAS 35 for 17 yards (35-M.Nicholson).,111,52,0:14,1,10,0,4418,Turnover
+2019_14_CIN_CLE,18,CLE 28,(:35) 14-A.Dalton spiked the ball to stop the clock.,35,45,0:12,1,10,1,4340,Field goal
+2019_14_DAL_CHI,23,CHI 13,(:27) (Shotgun) 4-D.Prescott pass incomplete deep left to 11-C.Wilson (26-D.Bush). DAL-11-C.Wilson was injured during the play.,27,48,0:08,1,10,1,4749,Field goal
+2019_14_SEA_LA,20,SEA 49,"(2:00) (Shotgun) 3-R.Wilson pass short right to 18-J.Brown ran ob at LA 46 for 7 yards (22-T.Hill). PENALTY on LA-45-O.Okoronkwo, Defensive Offside, 5 yards, enforced at SEA 47 - No Play.",120,53,1:25,1,10,0,4072,Turnover
+2019_14_WAS_GB,20,GB 13,(2:00) (Shotgun) 7-D.Haskins pass short left to 25-C.Thompson ran ob at GB 48 for 1 yard (37-J.Jackson).,120,49,1:17,1,10,1,3754,Touchdown
+2019_16_CIN_MIA,25,MIA 25,(:28) (Shotgun) 14-A.Dalton pass incomplete short right to 85-T.Eifert.,28,54,0:00,1,10,1,4903,Touchdown

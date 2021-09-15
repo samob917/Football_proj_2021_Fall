@@ -1,0 +1,206 @@
+==============================
+THE RESULTS ARE
+==============================
+Best Offense vs Best Defense
+Average Yards by Strategy (on first drive)
+tdf average yards for first drive: 29.608
+fgf average yards for first drive: 19.077
+Experiment 1
+tdf mean success rate: 7.173
+fgf mean success rate: 10.593---
+Experiment 2
+tdf mean success rate: 6.300
+fgf mean success rate: 6.600---
+==============================
+Best Offense vs Medium Defense
+Average Yards by Strategy (on first drive)
+tdf average yards for first drive: 33.218
+fgf average yards for first drive: 19.540
+Experiment 1
+tdf mean success rate: 8.887
+fgf mean success rate: 10.626---
+Experiment 2
+tdf mean success rate: 9.500----
+fgf mean success rate: 6.900
+==============================
+Best Offense vs Bad Defense
+Average Yards by Strategy (on first drive)
+tdf average yards for first drive: 33.981
+fgf average yards for first drive: 21.121
+Experiment 1
+tdf mean success rate: 9.597
+fgf mean success rate: 10.819---
+Experiment 2
+tdf mean success rate: 10.300---
+fgf mean success rate: 10.000
+==============================
+Medium Offense vs Best Defense
+Average Yards by Strategy (on first drive)
+tdf average yards for first drive: 25.574
+fgf average yards for first drive: 16.181
+Experiment 1
+tdf mean success rate: 5.600
+fgf mean success rate: 9.783---
+Experiment 2
+tdf mean success rate: 4.400
+fgf mean success rate: 3.400---
+==============================
+Medium Offense vs Medium Defense
+Average Yards by Strategy (on first drive)
+tdf average yards for first drive: 29.091
+fgf average yards for first drive: 18.207
+Experiment 1
+tdf mean success rate: 6.805
+fgf mean success rate: 10.372---
+Experiment 2
+tdf mean success rate: 7.000---
+fgf mean success rate: 5.500
+==============================
+Medium Offense vs Bad Defense
+Average Yards by Strategy (on first drive)
+tdf average yards for first drive: 32.006
+fgf average yards for first drive: 18.987
+Experiment 1
+tdf mean success rate: 7.949
+fgf mean success rate: 10.023---
+Experiment 2
+tdf mean success rate: 8.400---
+fgf mean success rate: 6.800
+==============================
+Bad Offense vs Best Defense
+Average Yards by Strategy (on first drive)
+tdf average yards for first drive: 21.923
+fgf average yards for first drive: 14.264
+Experiment 1
+tdf mean success rate: 4.328
+fgf mean success rate: 9.447---
+Experiment 2
+tdf mean success rate: 4.800---
+fgf mean success rate: 3.100
+==============================
+Bad Offense vs Medium Defense
+Average Yards by Strategy (on first drive)
+tdf average yards for first drive: 24.956
+fgf average yards for first drive: 16.290
+Experiment 1
+tdf mean success rate: 5.461
+fgf mean success rate: 9.978---
+Experiment 2
+tdf mean success rate: 6.500---
+fgf mean success rate: 5.600
+==============================
+Bad Offense vs Bad Defense
+Average Yards by Strategy (on first drive)
+tdf average yards for first drive: 28.882
+fgf average yards for first drive: 17.499
+Experiment 1
+tdf mean success rate: 7.335
+fgf mean success rate: 9.889---
+Experiment 2
+tdf mean success rate: 6.000---
+fgf mean success rate: 5.400
+==============================
+
+
+==============================
+THE RESULTS ARE
+==============================
+Best Offense vs Best Defense
+Average Yards by Strategy (on first drive)
+tdf average yards for first drive: 28.985
+fgf average yards for first drive: 17.766
+Experiment 1
+tdf mean success rate: 6.758
+fgf mean success rate: 9.565---
+Experiment 2
+tdf mean success rate: 6.800---
+fgf mean success rate: 4.400
+==============================
+Best Offense vs Medium Defense
+Average Yards by Strategy (on first drive)
+tdf average yards for first drive: 33.130
+fgf average yards for first drive: 19.583
+Experiment 1
+tdf mean success rate: 8.293
+fgf mean success rate: 10.212---
+Experiment 2
+tdf mean success rate: 6.300---
+fgf mean success rate: 5.800
+==============================
+Best Offense vs Bad Defense
+Average Yards by Strategy (on first drive)
+tdf average yards for first drive: 32.744
+fgf average yards for first drive: 21.077
+Experiment 1
+tdf mean success rate: 9.361
+fgf mean success rate: 10.313---
+Experiment 2
+tdf mean success rate: 7.900---
+fgf mean success rate: 7.400
+==============================
+Medium Offense vs Best Defense
+Average Yards by Strategy (on first drive)
+tdf average yards for first drive: 24.288
+fgf average yards for first drive: 16.096
+Experiment 1
+tdf mean success rate: 4.894
+fgf mean success rate: 9.905---
+Experiment 2
+tdf mean success rate: 4.000---
+fgf mean success rate: 2.800
+==============================
+Medium Offense vs Medium Defense
+Average Yards by Strategy (on first drive)
+tdf average yards for first drive: 28.630
+fgf average yards for first drive: 17.844
+Experiment 1
+tdf mean success rate: 7.061
+fgf mean success rate: 9.944---
+Experiment 2
+tdf mean success rate: 6.300---
+fgf mean success rate: 5.900
+==============================
+Medium Offense vs Bad Defense
+Average Yards by Strategy (on first drive)
+tdf average yards for first drive: 31.814
+fgf average yards for first drive: 18.858
+Experiment 1
+tdf mean success rate: 7.306
+fgf mean success rate: 10.082---
+Experiment 2
+tdf mean success rate: 6.600---
+fgf mean success rate: 6.000
+==============================
+Bad Offense vs Best Defense
+Average Yards by Strategy (on first drive)
+tdf average yards for first drive: 23.183
+fgf average yards for first drive: 14.062
+Experiment 1
+tdf mean success rate: 4.637
+fgf mean success rate: 9.448---
+Experiment 2
+tdf mean success rate: 3.600---
+fgf mean success rate: 2.800
+==============================
+Bad Offense vs Medium Defense
+Average Yards by Strategy (on first drive)
+tdf average yards for first drive: 25.086
+fgf average yards for first drive: 17.503
+Experiment 1
+tdf mean success rate: 5.557
+fgf mean success rate: 9.755---
+Experiment 2
+tdf mean success rate: 5.100---
+fgf mean success rate: 3.800
+==============================
+Bad Offense vs Bad Defense
+Average Yards by Strategy (on first drive)
+tdf average yards for first drive: 29.100
+fgf average yards for first drive: 17.191
+Experiment 1
+tdf mean success rate: 6.677
+fgf mean success rate: 9.870---
+Experiment 2
+tdf mean success rate: 5.600---
+fgf mean success rate: 3.400
+==============================

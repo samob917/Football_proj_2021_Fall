@@ -1,0 +1,35 @@
+passing Offense
+2015         1 7 5 21 19 15 32 25 24  - NO, NYG, NE, CLE, MIA, CIN, STL, TEN, CAR
+2016         3 10 5 11 19 17 24 31 30 - ATL, SEA, IND, DET, KC, NYG, PHI, LAR, BUF
+2017         7 1  2 14 18 16 30 23 25 - KC, LAC, NE, SEA, MIA, OAK, IND, TEN, GB
+2018         6 4 1 18  13 12 30 26 27 - IND, ATL, TB, OAK, MIN, NO, MIA, JAC, SEA
+2019         5 2  7 20 18 14 30 24 28 - KC, DAL, NO, CAR, NYG, SEA, IND, ARI, DEN
+ 
+passing Defense           
+2015         10 4 1 14 11 17 31 27 32 - BAL, CHI, DEN, SD, CAR, NE, NO, SF, NYG
+2016         1 2 3 19 13 14 30 24 23  - DEN, HOU, MIN, DET, PHI, SF, TEN, OAK, NYG
+2017         2 10 7 13 16 19 31 29 23 - MIN, BAL, CHI, LAR, MIA, CLE, NYG, KC, GB
+2018         9 3 2 12 13 18 29 24 26  - LAC, MIN, JAC, GB, DAL, CAR, NO, NYJ, TB
+2019         4 2 3 19 22 17 23 32 26  - BUF, NE, PIT, PHI, ATL, NYJ, IND, DET, MIA            
+            
+            
+
+
+
+            Usual strategy- prob of winning/tying:
+mean: 5.096
+standard deviation 11.823
+max: 47.273
+New strategy- prob of winning:
+mean: 11.019
+standard deviation 7.724
+max: 18.085
+=======================================
+Usual strategy- time left:
+mean: 30.666
+standard deviation 30.989
+max: 105.000
+New strategy- time left:
+mean: 54.585
+standard deviation 27.860
+max: 105.000

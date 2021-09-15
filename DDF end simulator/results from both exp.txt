@@ -1,0 +1,68 @@
+==============================
+THE RESULTS ARE:
+==============================
+Best offense vs Best Defense:
+experiment 1:
+Current Strategy: Mean success rate is 8.098
+New Strategy: Mean success rate is 10.566    ------
+experiment 2:
+Current Strategy: Mean success rate is 9.270 ------
+New Strategy: Mean success rate is 7.370
+Best offense vs Medium Defense:
+experiment 1:
+Current Strategy: Mean success rate is 9.813
+New Strategy: Mean success rate is 11.056 ------
+experiment 2:
+Current Strategy: Mean success rate is 11.950 --------
+New Strategy: Mean success rate is 10.150
+Best offense vs Worst Defense:
+experiment 1:
+Current Strategy: Mean success rate is 10.535
+New Strategy: Mean success rate is 11.170  -----
+experiment 2:
+Current Strategy: Mean success rate is 13.170  -------
+New Strategy: Mean success rate is 11.670
+==============================
+Medium offense vs Best Defense:
+experiment 1:
+Current Strategy: Mean success rate is 6.478
+New Strategy: Mean success rate is 10.075   -------
+experiment 2:
+Current Strategy: Mean success rate is 6.670 ----
+New Strategy: Mean success rate is 5.490  
+Medium offense vs Medium Defense:
+experiment 1:
+Current Strategy: Mean success rate is 8.488
+New Strategy: Mean success rate is 10.579   -------
+experiment 2:
+Current Strategy: Mean success rate is 9.200 -----
+New Strategy: Mean success rate is 7.580   
+Medium offense vs Worst Defense:
+experiment 1:
+Current Strategy: Mean success rate is 8.724
+New Strategy: Mean success rate is 10.656  --------
+experiment 2:
+Current Strategy: Mean success rate is 10.720  --------
+New Strategy: Mean success rate is 8.730
+==============================
+Worst offense vs Best Defense:
+experiment 1:
+Current Strategy: Mean success rate is 4.925
+New Strategy: Mean success rate is 9.608  ---------
+experiment 2:
+Current Strategy: Mean success rate is 4.350 -------
+New Strategy: Mean success rate is 3.980
+Worst offense vs Medium Defense:
+experiment 1:
+Current Strategy: Mean success rate is 6.544
+New Strategy: Mean success rate is 10.186  -------
+experiment 2:
+Current Strategy: Mean success rate is 6.630  ------
+New Strategy: Mean success rate is 5.270
+Worst offense vs Worst Defense:
+experiment 1:
+Current Strategy: Mean success rate is 7.365
+New Strategy: Mean success rate is 10.087  -------
+experiment 2:
+Current Strategy: Mean success rate is 7.950  ------
+New Strategy: Mean success rate is 6.530   

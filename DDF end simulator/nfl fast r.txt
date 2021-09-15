@@ -1,0 +1,52 @@
+NFL Fast R for football project
+
+score differential < 11 and > 8
+qtr == 4
+game seconds remaining <= 120
+posteam score < defteam score
+posteam timeouts == 3
+
+
+
+List of questions:
+
+How often does this scenario occur per season (team has the ball down by 8-11, less than 2 minutes left)
+	a) ball inside the 50
+	b) ball anywhere
+What proportion of these games result in a win or a tie at the end of regulation for the losing team
+	- In this situation, what proportion have a fieldgoal taken with "ample" time remaining
+
+NUMBER OF GAMES FROM 2000 to 2019
+num_games <- pbp %>%
+    select(game_id)
+num_games <- unique(num_games)
+nrow(num_games)
+gives: 5322
+
+num_losing_games <- losing_data %>%
+    select(game_id)
+num_losing_games <- unique(num_losing_games)
+nrow(num_losing_games)
+gives: 616
+
+11% of games 
+
+home_team_win <- losing_data[losing_data$posteam == losing_data$home_team, ] %>%
+    filter(result > 0)%>% 
+    select(game_id)
+home_team_win <- unique(home_team_win)
+nrow(home_team_win)
+2
+
+away_team_win <- losing_data[losing_data$posteam == losing_data$away_team, ] %>%
+    filter(result < 0)%>% 
+    select(game_id)
+away_team_win <- unique(away_team_win)
+nrow(away_team_win)
+4
+
+num_losing2_games <- losing_data2 %>%
+    select(game_id)
+num_losing2_games <- unique(num_losing2_games)
+nrow(num_losing2_games)
+501
