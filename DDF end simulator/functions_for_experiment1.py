@@ -5,10 +5,10 @@ import simulator as s
 import statistics
 import matplotlib.pyplot as plt
 
-team_data = pd.read_excel(r'C:\Users\Sam Oberly\OneDrive - Johns Hopkins\DDF end simulator\TeamData.xlsx')
+team_data = pd.read_excel(r'C:\Users\Sam Oberly\OneDrive - Johns Hopkins\Desktop\Football_proj_2021_Fall\DDF end simulator\TeamData.xlsx')
 #result_code = pd.read_excel(r'C:\Users\Sam Oberly\OneDrive - Johns Hopkins\DDF end simulator\ResultCodes.xlsx')
 #play_chart_matrix = pd.read_excel(r"C:\Users\Sam Oberly\OneDrive - Johns Hopkins\DDF end simulator\PlayChartMatrix.xlsx")
-teams = pd.read_excel(r"C:\Users\Sam Oberly\OneDrive - Johns Hopkins\DDF end simulator\Teams.xlsx")
+teams = pd.read_excel(r"C:\Users\Sam Oberly\OneDrive - Johns Hopkins\Desktop\Football_proj_2021_Fall\DDF end simulator\Teams.xlsx")
 
 
 
@@ -61,30 +61,30 @@ def choose_opponents(offense_list, defense_list):
     return off_team_chart,def_team_chart
 
 
-def experiment1(offense_list, defense_list, num_sims, yards_to_go, strategy):
+def experiment1(offense_list, defense_list, num_sims, yards_to_go, strategy,seconds_to_go):
     final_data_chart = []
     final_time_remaining = []
     final_yards_gained = []
     for i in range(num_sims):
         off_chart, def_chart = choose_opponents(offense_list, defense_list)
-        data_chart, time, yards = s.sim_games(off_chart,def_chart, yards_to_go, 1, strategy)
+        data_chart, time, yards = s.sim_games(off_chart,def_chart, yards_to_go, 1, strategy,seconds_to_go)
         
         final_data_chart.append(data_chart[0])
         final_time_remaining.append(time[0])
         final_yards_gained.append(yards[0])
     return final_data_chart, final_time_remaining, final_yards_gained
     
+#seconds_to_go = 120
+#a,b,c = experiment1(ta.best_off, ta.bad_def, 1000, 50, 0, seconds_to_go)
+#print(statistics.mean(c))
 
-a,b,c = experiment1(ta.best_off, ta.bad_def, 1000, 50, 0)
-print(statistics.mean(c))
-
-def driver1(offense_list, defense_list, sims):
-
-
-    data_strat0,time0, yards0 = experiment1(offense_list,defense_list, sims, 50, 0)
+def driver1(offense_list, defense_list, sims, yardline_start,seconds_to_go):
 
 
-    data_strat1,time1, yards1 = experiment1(offense_list,defense_list, sims, 20, 1)
+    data_strat0,time0, yards0 = experiment1(offense_list,defense_list, sims, yardline_start, 0,seconds_to_go)
+
+    goal_yards = yardline_start - 30
+    data_strat1,time1, yards1 = experiment1(offense_list,defense_list, sims, goal_yards, 1,seconds_to_go)
 
     a = statistics.mean(data_strat0)
     b = statistics.stdev(data_strat0)

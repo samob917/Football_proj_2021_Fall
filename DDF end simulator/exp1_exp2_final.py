@@ -11,6 +11,8 @@ import experiment2 as fun2
 
 levels = ['best', 'med', 'bad']
 
+
+
 outcomes_exp1 = []
 outcomes_exp2 = []
 outcomes_yds = []
@@ -18,8 +20,12 @@ for i in levels:
     for j in levels:
         offense_list = eval('ta.'+ i + '_off')
         defense_list = eval('ta.'+ j + '_def')
-        tdf1, fgf1, tdf_yds, fgf_yds = fun1.driver1(offense_list, defense_list, 1000)
-        tdf2, fgf2 = fun2.driver2(offense_list, defense_list, 1000)
+        
+        yardline_start = 50
+        seconds_to_go = 120
+        #edit this to try buckets
+        tdf1, fgf1, tdf_yds, fgf_yds = fun1.driver1(offense_list, defense_list, 10, yardline_start,seconds_to_go)
+        tdf2, fgf2 = fun2.driver2(offense_list, defense_list, 10, yardline_start,seconds_to_go)
         
         outcomes_exp1.append([tdf1, fgf1])
         outcomes_exp2.append([tdf2, fgf2])

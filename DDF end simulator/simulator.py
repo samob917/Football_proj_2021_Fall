@@ -9,7 +9,7 @@ import after_drive1 as ad
 import matplotlib.pyplot as plt
 import statistics
 
-def sim_games(off_chart,def_chart, goal_yards, num_games, strategy):
+def sim_games(off_chart,def_chart, goal_yards, num_games, strategy,seconds_to_go):
     data_chart = []
     time_remaining= []
     yards_gained = []
@@ -18,7 +18,7 @@ def sim_games(off_chart,def_chart, goal_yards, num_games, strategy):
     win_prob = 0
     for z in range(num_games):
 #define the game
-        game1 = gc.game(0,10,120, 3, 3, True, goal_yards, 1, 10)
+        game1 = gc.game(0,seconds_to_go,120, 3, 3, True, goal_yards, 1, 10)
 
 
 # #pick play

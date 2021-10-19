@@ -9,10 +9,10 @@ mechanism for choosing and running a play
 '''
 import pandas as pd
 
-team_data = pd.read_excel(r'C:\Users\Sam Oberly\OneDrive - Johns Hopkins\DDF end simulator\TeamData.xlsx')
+team_data = pd.read_excel(r'C:\Users\Sam Oberly\OneDrive - Johns Hopkins\Desktop\Football_proj_2021_Fall\DDF end simulator\TeamData.xlsx')
 #result_code = pd.read_excel(r'C:\Users\Sam Oberly\OneDrive - Johns Hopkins\DDF end simulator\ResultCodes.xlsx')
 #play_chart_matrix = pd.read_excel(r"C:\Users\Sam Oberly\OneDrive - Johns Hopkins\DDF end simulator\PlayChartMatrix.xlsx")
-teams = pd.read_excel(r"C:\Users\Sam Oberly\OneDrive - Johns Hopkins\DDF end simulator\Teams.xlsx")
+teams = pd.read_excel(r"C:\Users\Sam Oberly\OneDrive - Johns Hopkins\Desktop\Football_proj_2021_Fall\DDF end simulator\Teams.xlsx")
 
 
 

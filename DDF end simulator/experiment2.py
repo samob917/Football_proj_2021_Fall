@@ -140,8 +140,13 @@ def sim_game(off_chart,def_chart, goal_yards,seconds, situational):
 
 #DRIVER
 
-def experiment2(strategy, num_sims, offense_list, defense_list):
+def experiment2(strategy, num_sims, offense_list, defense_list, yardline_start,start_time):
+    if strategy == 1:
+        goal_end_yardline = 0
+    elif strategy == 2:
+        goal_end_yardline = 30
     
+    goal_yards = yardline_start - goal_end_yardline
     success = []
     
     for i in range(num_sims):
@@ -149,7 +154,7 @@ def experiment2(strategy, num_sims, offense_list, defense_list):
         off_chart, def_chart = fun.choose_opponents(offense_list, defense_list)
     
         if strategy == 1:
-            outcome, time_remaining, score = sim_game(off_chart, def_chart, 50, 120, 0)
+            outcome, time_remaining, score = sim_game(off_chart, def_chart, goal_yards, start_time, 0)
         
             if outcome == 1 and score == 3:
                 outcome, time_remaining, score = sim_game(off_chart, def_chart, 55, time_remaining, 1)
@@ -168,7 +173,7 @@ def experiment2(strategy, num_sims, offense_list, defense_list):
                 success.append(0)
         
         if strategy == 2:
-            outcome, time_remaining, score = sim_game(off_chart, def_chart, 20, 120, 0)
+            outcome, time_remaining, score = sim_game(off_chart, def_chart, goal_yards, start_time, 0)
         
             if outcome == 1:
                 outcome, time_remaining, score = sim_game(off_chart, def_chart, 55, time_remaining, 1)
@@ -185,12 +190,12 @@ def experiment2(strategy, num_sims, offense_list, defense_list):
 
 
 
-def driver2(offense_list, defense_list, sims):
+def driver2(offense_list, defense_list, sims, yardline_start,start_time):
 #strategy 1
-    data1 = experiment2(1, sims, offense_list, defense_list)
+    data1 = experiment2(1, sims, offense_list, defense_list, yardline_start,start_time)
 
 #strategy 2
-    data2 = experiment2(2, sims, offense_list, defense_list)
+    data2 = experiment2(2, sims, offense_list, defense_list, yardline_start,start_time)
 
     a = statistics.mean(data1) * 100
     b = statistics.mean(data2) * 100
