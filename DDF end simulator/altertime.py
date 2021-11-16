@@ -7,6 +7,7 @@ This code will run both experiments and return the means
 import teams_for_analysis_python as ta
 import functions_for_experiment1 as fun1
 import experiment2 as fun2
+import matplotlib.pyplot as plt 
 
 
 levels = ['best', 'med', 'bad']
@@ -29,8 +30,8 @@ for i in levels:
             yardline_start = 50
             
             #edit this to try buckets
-            tdf1, fgf1, tdf_yds, fgf_yds = fun1.driver1(offense_list, defense_list, 10, yardline_start,seconds_to_go)
-            tdf2, fgf2 = fun2.driver2(offense_list, defense_list, 10, yardline_start,seconds_to_go)
+            tdf1, fgf1, tdf_yds, fgf_yds = fun1.driver1(offense_list, defense_list, 100, yardline_start,seconds_to_go)
+            tdf2, fgf2 = fun2.driver2(offense_list, defense_list, 100, yardline_start,seconds_to_go)
             
             outcomes_exp1.append([seconds_to_go, tdf1, fgf1])
             outcomes_exp2.append([seconds_to_go, tdf2, fgf2])
@@ -38,7 +39,50 @@ for i in levels:
 
         print(outcomes_exp1)
         print(outcomes_exp2)
-        
+
+
+figure1, axis1 = plt.subplots(3,3)
+figure2, axis2 = plt.subplots(3,3)
+
+Y = []
+TDFX1 = []
+FGFX1 = []
+
+TDFX2 = []
+FGFX2 = []
+for i in range(len(outcomes_exp1)):
+    Y.append(outcomes_exp1[i][0])
+    TDFX1.append(outcomes_exp1[i][1])
+    FGFX1.append(outcomes_exp1[i][2])
+    
+    TDFX2.append(outcomes_exp2[i][1])
+    FGFX2.append(outcomes_exp2[i][2])
+
+counter = 0
+for i in range(3):
+    for j in range(3):
+        axis1[i,j].plot(Y[0:9], TDFX1[counter:counter+9],color = 'r', label = 'TDF')
+        axis1[i,j].plot(Y[0:9], FGFX1[counter:counter+9], color = 'b', label = 'FGF')
+        axis1[i,j].set_title(levels[i] +' vs '+ levels[j])
+        counter += 9
+for ax in axis1.flat:
+    ax.set(xlabel='seconds', ylabel='probability of winning')
+figure1.suptitle('Experiment 1')
+
+
+counter = 0
+for i in range(3):
+    for j in range(3):
+        axis2[i,j].plot(Y[0:9], TDFX2[counter:counter+9],color = 'r', label = 'TDF')
+        axis2[i,j].plot(Y[0:9], FGFX2[counter:counter+9], color = 'b', label = 'FGF')
+        axis2[i,j].set_title(levels[i] +' vs '+ levels[j])
+        counter += 9
+for ax in axis2.flat:
+    ax.set(xlabel='seconds', ylabel='probability of winning')
+figure2.suptitle('Experiment 2')
+
+
+
 '''   
 print('==============================')
 print('THE RESULTS ARE')
